@@ -1,0 +1,47 @@
+Adliswil -> Found on page 239
+Carouge -> Found on page 239
+Amstelveen -> Found on page 239
+Zurich -> Found on page 9, 13, 79, 80, 87, 88, 89, 105, 106, 107, 108, 114, 115, 132, 138, 140, 151, 154, 164, 239, 248, 252, 259, 264, 265, 266, 282, 283, 284, 286
+Australia -> Found on page 184, 241
+Barbados -> Found on page 240
+Belgium -> Found on page 224, 239
+Bermuda -> Found on page 74, 240
+Brazil -> Found on page 16, 17, 29, 38, 105, 224, 240
+Canada -> Found on page 87, 90, 106, 184, 196, 200
+Cayman Islands -> Found on page 240
+China -> Found on page 11, 74, 88, 123, 184, 241, 276
+Colombia -> Found on page 240
+Denmark -> Found on page 224
+France -> Found on page 20, 38, 106, 184, 196, 200
+Georgia -> Found on page 105
+Germany -> Found on page 17, 20, 22, 184, 196, 200, 224, 239, 276
+Greece -> Found on page 16, 30
+Guernsey -> Found on page 239
+Hong Kong -> Found on page 88, 224, 282
+Ireland -> Found on page 184
+Italy -> Found on page 87, 106
+Japan -> Found on page 16, 17, 18, 20, 22, 31, 184, 224
+Jersey -> Found on page 87, 107
+Kenya -> Found on page 123
+Korea -> Found on page 20, 126, 184, 224
+Korea -> Found on page 20, 126, 184, 224
+Liechtenstein -> Found on page 239
+Luxembourg -> Found on page 104, 105, 152, 239, 263
+Malaysia -> Found on page 16
+Mauritania -> Found on page 123
+Mexico -> Found on page 29, 38, 90
+Netherlands -> Found on page 175, 239
+Niger -> Found on page 123
+Philippines -> Found on page 16
+Singapore -> Found on page 282
+South Africa -> Found on page 241
+Spain -> Found on page 16, 20
+Switzerland -> Found on page 17, 20, 80, 81, 82, 87, 88, 89, 90, 105, 106, 107, 108, 164, 184, 239, 266, 272, 276, 282, 286
+Turkey -> Found on page 123
+Ukraine -> Found on page 74
+United Kingdom -> Found on page 17, 82, 88, 107, 184, 196, 200, 224, 239, 276
+UK -> Found on page 11, 16, 17, 18, 19, 20, 22, 23, 27, 29, 30, 31, 38, 40, 46, 47, 87, 88, 90, 115, 146, 175, 217, 239, 240, 259
+United States -> Found on page 17, 108, 164, 184, 196, 200, 241, 273, 275, 276, 277
+US -> Found on page 11, 12, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 36, 37, 40, 41, 42, 46, 47, 48, 59, 80, 87, 90, 101, 108, 120, 146, 148, 164, 168, 171, 175, 191, 192, 196, 200, 202, 203, 205, 206, 217, 231, 234, 241, 263, 272, 273, 277, 281
+USA -> Found on page 82
+Venezuela -> Found on page 16

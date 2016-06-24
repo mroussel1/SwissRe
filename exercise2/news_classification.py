@@ -1,4 +1,4 @@
-#.encode('utf-8')
+# -*- coding: utf-8 -*-
 
 import time
 import random
@@ -17,7 +17,7 @@ def main():
 	start = time.time()
 
 	###### Loading and cleaning the data ######
-	path = '/Users/marion/Desktop/SwissRe_Datascientist_test/bbc/'
+	path = 'bbc/'
 
 	business_news = building_data('business', path)
 	entertainment_news = building_data('entertainment', path)
