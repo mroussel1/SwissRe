@@ -86,5 +86,5 @@ def training(features, method, proportion_training):
 
 
 if __name__ == "__main__":	
-	main() # L'appel a la fonction main	
+	main() # Call main function	
 
