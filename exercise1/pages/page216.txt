@@ -1,0 +1,24 @@
+FInanCIaL STaTEMEnTS
+notes to the Group financial statements
+
+Maximum potential loss
+In consideration of the rights of set-off and the qualifying master netting arrangements with various counterparties,  
+the maximum potential loss as of 31 December 2014 and 2015 was approximately USD 1 817 million and USD 1 551 million, 
+respectively. The maximum potential loss is based on the positive market replacement cost assuming non-performance of  
+all counterparties, excluding cash collateral.
+
+Credit risk-related contingent features
+Certain derivative instruments held by the Group contain provisions that require its debt to maintain an investment-grade credit 
+rating. If the Group’s credit rating were downgraded or no longer rated, the counterparties could request immediate payment, 
+guarantee or an ongoing full overnight collateralisation on derivative instruments in net liability positions.
+
+The total fair value of derivative financial instruments containing credit risk-related contingent features amounted to 
+USD 112 million and USD 106 million as of 31 December 2014 and 2015, respectively. For derivative financial instruments 
+containing credit risk-related contingent features, the Group posted collateral of USD 6 million and nil as of 31 December 2014 
+and 2015, respectively. In the event of a reduction of the Group’s credit rating to below investment grade, a fair value of 
+USD 106 million additional collateral would have had to be posted as of 31 December 2015. The total equals the amount 
+needed to settle the instruments immediately as of 31 December 2015.
+
+214  Swiss Re 2015 Financial Report
+
+

@@ -1,0 +1,151 @@
+Risk ANd CApiTAl mANAgEmENT
+Risk assessment
+
+insurance Risk
+
+Insurance (or underwriting) risk is the 
+risk of incurring a financial loss from 
+coverage provided for both property 
+and casualty and life and health risks. 
+Insurance risk management includes 
+overseeing risk-taking activities, as 
+well as ensuring that an appropriate 
+risk governance framework is defined 
+and applied. 
+
+Our Risk management function is 
+embedded in swiss Re’s business 
+processes and follows the business  
+cycle. Before any business is written, 
+Risk management is involved in the 
+group-wide annual business planning;  
+it also reviews underwriting standards, 
+pricing models, and large individual 
+transactions. Risk exposure is monitored 
+against agreed risk limits. 
+
+swiss Re’s Risk management function 
+monitors reserving levels; it provides 
+information to the risk-taking functions  
+on trends to ensure appropriate pricing. 
+Underwriting systems across the group 
+provide timely information on risks 
+assumed and capacity committed. 
+Regular internal risk and issue reporting 
+ensures transparency at all stages.
+
+  Property and casualty risk  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Change from 2014 99% tail VaR
+
+Description
+
+Developments in 2015
+
+property and casualty (p&C) insurance 
+risk arises from the coverage that 
+swiss Re provides for property, liability, 
+motor, and accident risks through its 
+Reinsurance and Corporate solutions 
+Business Units, as well as for specialty 
+risks such as engineering, aviation,  
+and marine. We classify and model  
+our property and casualty risks in three 
+categories at group and Business Unit 
+level: natural catastrophes 
+(eg, earthquakes and windstorms), 
+man-made risks (eg, liability and fire),  
+and geopolitical risks (eg, terrorism).  
+We also monitor and manage underlying 
+risks inherent in the business we 
+underwrite, such as inflation or 
+uncertainty in pricing and reserving.
+
+swiss Re’s overall property and casualty 
+risk increased slightly by 4%, mainly 
+driven by higher natural catastrophe risk 
+resulting from our strategic decision to 
+reduce external hedging as well as from 
+new business. The increase was partly 
+offset by foreign exchange developments.
+
+The higher natural catastrophe risk can 
+also be seen in the stress results on 
+page 67. The table shows swiss Re’s 
+exposure to a set of major natural 
+catastrophe scenarios, net of retrocession 
+and securitisation. These risk exposures 
+take into account the fact that such a 
+scenario will trigger claims in other lines 
+of business in addition to the most 
+affected property line. 
+
+While our exposure to Californian and 
+Japanese earthquake remained broadly 
+stable (−4% and +2%, respectively), our 
+Atlantic hurricane exposure showed a 
+significant increase (+31%). This is driven 
+by business growth and a reduction in 
+external hedges as mentioned above.  
+Our exposure to European windstorm risk 
+decreased (−17%) in 2015, mainly due  
+to model enhancement and the Us dollar 
+appreciation against the euro, partly 
+offset by growth in risk due to expiry  
+of several external hedges.
+
+ 
+
+Management
+
+swiss Re writes property and casualty 
+business using the four-eye principle: 
+every transaction must be reviewed  
+by at least two authorised individuals.  
+An exception to this procedure are  
+single risk acceptances, which can be 
+authorised by one underwriter whereby 
+the four-eye principle is applied  
+by spot checks after acceptance.  
+Each underwriter is assigned an 
+individual underwriting authority  
+based on technical skills and experience;  
+any business exceeding this authority 
+triggers a defined escalation process. 
+
+large and complex individual 
+transactions that could materially affect 
+the group’s and Business Units’ risk 
+exposure require independent review  
+and sign-off by Risk management before 
+authorisation. This is part of our three-
+signature approval process (involving 
+swiss Re’s underwriting, client 
+management and risk management 
+functions) that establishes the 
+accountability of each of the parties  
+for significant transactions.
+
+ 
+
+We monitor accumulated exposure to 
+single risks or to an underlying risk factor 
+(such as Californian earthquake) on a 
+group-wide basis. We further manage 
+our risk by external retrocession, risk 
+swaps, or transferring risk to capital 
+markets through insurance-linked 
+securities (such as the successor  
+and mythen cat bond programmes). 
+
+66  Swiss Re 2015 Financial Report
+
+

@@ -1,0 +1,62 @@
+an update to topic 323, “Investments — Equity Method and Joint Ventures”. The Low Income Housing Tax Credit, a program 
+created under the US Tax Reform Act of 1986, offers US federal tax credits to investors that provide capital to facilitate the 
+development, construction, and rehabilitation of low-income rental property. ASU 2014-01 modifies the conditions that must be 
+met to present the pre-tax effects and related tax benefits of investments in qualified affordable housing projects as a component 
+of income. Investors that do not qualify for “net” presentation under the new guidance will continue to account for such 
+investments under the equity method or cost method, which results in losses recognised in pre-tax income and tax benefits 
+recognised in income taxes. For investments that qualify for the “net” presentation of investment performance, the ASU 
+introduces a “proportional amortization method” that can be elected to amortise the investment basis. The Group adopted  
+ASU 2014-01 on 1 January 2015. The adoption did not have a material effect on the Group’s financial statements. 
+
+In January 2014, the FASB issued ASU 2014-04, “Reclassification of Residential Real Estate Collateralized Consumer Mortgage 
+Loans upon Foreclosure (a consensus of the FASB Emerging Issues Task Force)”, an update to subtopic 310-40, “Receivables —
+Troubled Debt Restructurings by Creditors”. ASU 2014-04 applies to creditors who obtain physical possession resulting from  
+an in substance repossession or foreclosure of residential real estate property collateralising a consumer mortgage loan in 
+satisfaction of a receivable. Existing guidance requires a creditor to reclassify a collateralised mortgage loan with the result that 
+the loan is derecognised and the collateral asset recognised when there has been in substance repossession or foreclosure by 
+the creditor. The ASU provides additional guidance on when a creditor is considered to have received physical possession from 
+an in substance repossession. The Group adopted ASU 2014-04 on 1 January 2015. The adoption did not have an effect on the 
+Group’s financial statements. 
+
+In April 2014, the FASB issued ASU 2014-08, “Reporting Discontinued Operations and Disclosures of Disposals of Components 
+of an Entity”, an update to topics 205, “Presentation of Financial Statements” and 360, “Property, Plant and Equipment”.  
+ASU 2014-08 amends the definition of a discontinued operation and requires entities to provide additional disclosures about 
+disposal transactions that do not meet the discontinued-operations criteria. The new guidance eliminates two of the three 
+existing criteria for classifying components of an entity as discontinued operations and instead requires discontinued operations 
+treatment for disposals of a component or group of components that represents a strategic shift that has or will have a major 
+impact on an entity’s operations or financial results. The ASU also expands the discontinued operations classification to include 
+disposals of equity method investments and acquired businesses held for sale. The ASU also requires entities to reclassify assets 
+and liabilities of a discontinued operation for all comparative periods presented in the statement of financial position. The Group 
+is applying the new requirements on a prospective basis to transactions occurring after 1 January 2015. The adoption did not 
+have an effect on the Group’s financial statements. 
+
+In June 2014, the FASB issued ASU 2014-11, “Repurchase-to-Maturity Transactions, Repurchase Financings, and Disclosures”, 
+an update to topic 860, “Transfers and Servicing”. ASU 2014-11 requires entities to account for repurchase-to-maturity 
+transactions as secured borrowings rather than as sales with forward repurchase agreements and eliminates previously  
+issued accounting guidance on linked repurchase financing transactions. The ASU includes new disclosure requirements for 
+transactions economically similar to repurchase agreements in which the transferor retains substantially all of the exposure to the 
+economic return on the transferred financial assets throughout the term of the transaction. These requirements of ASU 2014-11 
+were adopted on 1 January 2015 and the adoption did not have an effect on the Group’s financial statements. In addition, for 
+transactions accounted for as secured borrowings, including repurchase agreements and securities lending transactions, the 
+ASU requires entities to provide disclosures that disaggregate the related gross obligation by class of collateral pledged, disclose 
+the remaining contractual maturity of the agreements and to provide information on the potential risks of these arrangements 
+and related collateral pledged. In line with the specific effective date provided in the ASU, the Group adopted the new disclosure 
+requirements for the interim period ending 30 June 2015 and applicable portions of the new disclosure requirements are 
+provided in Note 7.
+
+In June 2014, the FASB issued ASU 2014-12, “Accounting for Share-Based Payments When the Terms of an Award Provide  
+That a Performance Target Could Be Achieved after the Requisite Service Period”, an update to topic 718, “Compensation – 
+Stock Compensation”. ASU 2014-12 states that a performance target that affects vesting of a share-based payment and that 
+could be achieved after the requisite service period is a performance condition, and therefore, the target is not reflected in the 
+estimation of the award’s grant date fair value. Compensation cost for such an award would be recognised over the required 
+service period if it is probable that the performance condition will be achieved. The Group adopted ASU 2014-12 on  
+1 January 2015. The adoption did not have an effect on the Group’s financial statements.
+
+In August 2014, the FASB issued ASU 2014-14, “Classification of Certain Government-Guaranteed Mortgage Loans upon 
+Foreclosure”, an update to subtopic 310-40, “Receivables — Troubled Debt Restructurings by Creditors”. ASU 2014-14 affects 
+creditors that hold government-guaranteed mortgage loans. The ASU requires that a mortgage loan be derecognised and that  
+a separate other receivable be recognised upon foreclosure if specific conditions are met, including that the guarantee is not 
+
+Swiss Re 2015 Financial Report  169
+
+

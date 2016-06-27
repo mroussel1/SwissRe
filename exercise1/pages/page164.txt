@@ -1,0 +1,63 @@
+FINANCIAL STATEMENTS
+Notes to the Group financial statements
+
+Notes to the Group financial statements
+
+1  Organisation and summary of significant accounting policies
+
+Nature of operations
+The Swiss Re Group, which is headquartered in Zurich, Switzerland, comprises Swiss Re Ltd (the parent company) and its 
+subsidiaries (collectively, the “Swiss Re Group” or the “Group”). The Swiss Re Group is a wholesale provider of reinsurance, 
+insurance and other insurance-based forms of risk transfer. Working through brokers and a network of offices around the globe, 
+the Group serves a client base made up of insurance companies, mid- to large-sized corporations and public sector clients.
+
+Basis of presentation
+The accompanying consolidated financial statements have been prepared in accordance with accounting principles generally 
+accepted in the United States of America (US GAAP) and comply with Swiss law. All significant intra-group transactions and 
+balances have been eliminated on consolidation. 
+
+Principles of consolidation
+The Group’s financial statements include the consolidated financial statements of Swiss Re Ltd and its subsidiaries. Voting 
+entities which Swiss Re Ltd directly or indirectly controls through holding a majority of the voting rights are consolidated in  
+the Group’s accounts. Variable interest entities (VIEs) are consolidated when the Swiss Re Group is the primary beneficiary.  
+The Group is the primary beneficiary when it has power over the activities that impact the VIE’s economic performance and at 
+the same time has the obligation to absorb losses or the right to receive benefits that could potentially be significant to the VIE. 
+Companies which the Group does not control, but over which it directly or indirectly exercises significant influence, are 
+accounted for using the equity method or the fair value option and are included in other invested assets. The Swiss Re Group’s 
+share of net profit or loss in investments accounted for under the equity method is included in net investment income. Equity  
+and net income of these companies are adjusted as necessary to be in line with the Group’s accounting policies. The results of 
+consolidated subsidiaries and investments accounted for using the equity method are included in the financial statements for  
+the period commencing from the date of acquisition.
+
+Use of estimates in the preparation of financial statements
+The preparation of financial statements requires management to make significant estimates and assumptions that affect the 
+reported amounts of assets, liabilities, revenues and expenses as well as the related disclosure, including contingent assets  
+and liabilities. The Swiss Re Group’s liabilities for unpaid claims and claim adjustment expenses and policy benefits for life and  
+health include estimates for premium, claim and benefit data not received from ceding companies at the date of the financial 
+statements. In addition, the Group uses certain financial instruments and invests in securities of certain entities for which 
+exchange trading does not exist. The Group determines these estimates based on historical information, actuarial analyses, 
+financial modelling and other analytical techniques. Actual results could differ significantly from the estimates described above.
+
+Foreign currency remeasurement and translation
+Transactions denominated in foreign currencies are remeasured to the respective subsidiary’s functional currency at average 
+exchange rates. Monetary assets and liabilities are remeasured to the functional currency at closing exchange rates, whereas 
+non-monetary assets and liabilities are remeasured to the functional currency at historical rates. Remeasurement gains and 
+losses on monetary assets and liabilities and trading securities are reported in earnings. Remeasurement gains and losses on 
+available-for-sale securities, investments in consolidated subsidiaries and investments accounted for using the equity method 
+are reported in shareholders’ equity.
+
+For consolidation purposes, assets and liabilities of subsidiaries with functional currencies other than US dollars are translated 
+from the functional currency to US dollars at closing rates. Revenues and expenses are translated at average exchange rates. 
+Translation adjustments are reported in shareholders’ equity.
+
+Valuation of financial assets
+The fair value of the majority of the Group’s financial instruments is based on quoted prices in active markets or observable 
+inputs. These instruments include government and agency securities, commercial paper, most investment-grade corporate debt, 
+most high-yield debt securities, exchange-traded derivative instruments, most mortgage- and asset-backed securities and listed 
+equity securities. In markets with reduced or no liquidity, spreads between bid and offer prices are normally wider compared to 
+spreads in highly liquid markets. Such market conditions affect the valuation of certain asset classes of the Group, such as some 
+asset-backed securities as well as certain derivative structures referencing such asset classes.
+
+162  Swiss Re 2015 Financial Report
+
+

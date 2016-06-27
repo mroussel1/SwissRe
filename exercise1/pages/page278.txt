@@ -1,0 +1,69 @@
+GeneRal infORmatiOn
+note on risk factors
+
+276  Swiss Re 2015 financial Report
+
+Market risk
+Volatility and disruption in the global financial markets can expose the Group to 
+significant financial and capital markets risk, including changes in interest rates,  
+credit spreads, equity prices and foreign currency exchange rates, which may 
+adversely impact the Group’s financial condition, results of operations, liquidity and 
+capital position. the Group’s exposure to interest rate risk is primarily related to the 
+market price and cash flow variability associated with changes in interest rates.  
+in general, a low interest rate environment, such as the one experienced in recent 
+years, poses significant challenges to the insurance and reinsurance industries,  
+with earnings capacity under stress unless lower investment returns from fixed  
+income assets can be offset by lower combined ratios or higher returns from other 
+asset classes. economic weakness, fiscal tightening and monetary policies are keeping 
+government yields low, which impacts investment yields and affects the profitability  
+of life savings products with interest rate guarantees. exposure to credit spreads 
+primarily relates to market price and cash flow variability associated with changes  
+in credit spreads. When credit spreads widen, the net unrealised loss position of the 
+Group’s investment portfolio can increase, as could other-than-temporary impairments. 
+
+the Group is exposed to changes in the level and volatility of equity prices, as they 
+affect the value of equity securities themselves as well as the value of securities or 
+instruments that derive their value from a particular equity security, a basket of equity 
+securities or a stock index. the Group is also subject to equity price risk to the extent 
+that the values of life-related benefits under certain products and life contracts, most 
+notably variable annuity business, are tied to financial market values; to the extent 
+market values fall, the financial exposure on guarantees related to these contracts 
+would increase to the extent this exposure is not hedged. While the Group has 
+discontinued writing new variable annuity business and has an extensive hedging 
+programme covering its existing variable annuity business that it believes is sufficient, 
+certain risks cannot be hedged, including actuarial risks, basis risk and correlation risk. 
+exposure to foreign exchange risk arises from exposures to changes in spot prices  
+and forward prices as well as to volatile movements in exchange rates. 
+
+these risks can have a significant effect on investment returns and market values of 
+securities positions, which in turn may affect both the Group’s results of operations and 
+financial condition. the Group continues to focus on asset-liability management for its 
+investment portfolio, but pursuing even this strategy has its risks – including possible 
+mismatch – that in turn can lead to reinvestment risk. the Group seeks to manage the 
+risks inherent in its investment portfolio by repositioning the portfolio from time to time, 
+as needed, and to reduce risk and fluctuations through the use of hedges and other  
+risk management tools.
+
+Credit risk
+if the credit markets were again to deteriorate and further asset classes were to be 
+impacted, the Group could experience further losses. Changes in the market value  
+of the underlying securities and other factors impacting their price could give rise to 
+market value losses. if the credit markets were to deteriorate again, the Group could 
+also face further write-downs in other areas of its portfolio, including other structured 
+instruments, and the Group and its counterparties could once again face difficulties  
+in valuing credit-related instruments. Differences in opinion with respect to valuations  
+of credit-related instruments could result in legal disputes among the Group and its 
+counterparties as to their respective obligations, the outcomes of which are difficult  
+to predict and could be material. 
+
+the Group is also subject to credit and other risks in its credit business, including 
+reliance on banks that underwrite and monitor facilities in with the Group participates 
+and potential default by borrowers under those facilities.
+
+Liquidity risks
+the Group’s business requires, and its clients expect, that it has sufficient capital and 
+sufficient liquidity to meet its re/insurance obligations, and that this would continue  
+to be the case following the occurrence of any foreseeable event or series of events, 
+including extreme catastrophes, that would trigger insurance or reinsurance coverage 
+
+

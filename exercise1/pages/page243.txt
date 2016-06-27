@@ -1,0 +1,57 @@
+Insurance-linked and credit-linked securitisations
+The insurance-linked and credit-linked securitisations transfer pre-existing insurance or credit risk to the capital markets through  
+the issuance of insurance-linked or credit-linked securities. In insurance-linked securitisations, the securitisation vehicle assumes  
+the insurance risk from a sponsor through insurance or derivative contracts. In credit-linked securitisations, the securitisation 
+vehicle assumes the credit risk from a sponsor through credit default swaps. The securitisation vehicle generally retains the 
+issuance proceeds as collateral. The collateral held predominantly consists of investment-grade securities.
+
+Typically, the variable interests held by the Group arise through ownership of insurance-linked and credit-linked securities,  
+in which case maximum loss equals to the Group’s investment balance. 
+
+Generally, the activities of a securitisation vehicle are pre-determined at formation. There are substantially no ongoing activities 
+during the life of the VIE that could significantly impact the economic performance of the vehicle. Consequently, the main focus  
+to identify the primary beneficiary is on the activities performed and decisions made when the VIE was designed. 
+
+Life and health funding vehicles
+The Group participates in certain structured transactions that retrocede longevity and mortality risks to captive reinsurers with 
+an aim to provide regulatory capital credit to a transaction sponsor through creation of funding notes by a funding vehicle which  
+is generally considered a VIE. The Group’s participation in these transactions is generally limited to providing contingent funding 
+support via a financial contract to a funding vehicle, which represents a potentially significant variable interest. The Group does  
+not have power to direct activities of the funding vehicles and therefore is not a primary beneficiary of the funding vehicles in 
+these transactions. The Group’s maximum exposure in these transactions equals either the total contract notional or funding 
+notes issued by the vehicle, depending on the specific contractual arrangements.
+
+Swaps in trusts
+The Group provides risk management services to certain asset securitisation trusts which qualify as VIEs. As the involvement of  
+the Group is limited to interest rate and foreign exchange derivatives, it does not have power to direct any activities of the trusts  
+and therefore does not qualify as primary beneficiary of any of these trusts. These activities are in run-off.
+
+Debt financing vehicles
+Debt financing vehicles issue preference shares or loan notes to provide the Group with funding. The Group is partially exposed  
+to the asset risk by holding equity rights or by protecting some of the assets held by the VIEs via guarantees or derivative contracts.  
+The assets held by the VIEs consist primarily of investment-grade securities, but also structured products, hedge fund units  
+and derivatives.
+
+The Group consolidates a debt financing vehicle as it has power over the investment management in the vehicle, which is 
+considered to be the activity that most significantly impacts the entities’ economic performance. In addition, the Group absorbs  
+the variability of the investment return so that both criteria for a controlling financial interest are met.
+
+Investment vehicles
+Investment vehicles are private equity limited partnerships, in which the Group is invested as part of its investment strategy. 
+Typically, the Group’s variable interests arise through limited partner ownership interests in the vehicles. The Group does not  
+own the general partners of the limited partnerships, and does not have any significant kick-out or participating rights. Therefore  
+the Group lacks power over the relevant activities of the vehicles and, consequently, does not qualify as the primary beneficiary.  
+The Group is exposed to losses when the values of the investments held by the vehicles decrease. The maximum exposure to  
+loss equals the carrying amount of the ownership interest.
+
+Other
+The VIEs in this category were created for various purposes. Generally, the Group is exposed to the asset risk of the VIEs by holding 
+an equity stake in the VIE or by guaranteeing a part or the entire asset value to third-party investors. A significant portion of the 
+Group’s exposure is either retroceded or hedged. The assets held by the VIEs consist mainly of residential real estate and other.
+
+The Group did not provide financial or other support to any VIEs during 2015 that it was not previously contractually required  
+to provide.
+
+Swiss Re 2015 Financial Report  241
+
+

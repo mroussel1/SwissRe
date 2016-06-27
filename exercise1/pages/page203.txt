@@ -1,0 +1,59 @@
+Valuation techniques
+US government securities typically have quoted market prices in active markets and are categorised as level 1 instruments  
+in the fair value hierarchy. non-US government holdings are generally classified as level 2 instruments and are valued on the  
+basis of the quotes provided by pricing services, which are subject to the Group’s pricing validation reviews and pricing vendor 
+challenge process. Valuations provided by pricing vendors are generally based on the actual trade information as substantially  
+all of the Group’s non-US government holdings are traded in a transparent and liquid market.
+
+Corporate debt securities mainly include US and European investment-grade positions, which are priced on the basis of  
+quotes provided by third-party pricing vendors and first utilise valuation inputs from actively traded securities, such as bid  
+prices, bid spreads to Treasury securities, Treasury curves, and same or comparable issuer curves and spreads. Issuer spreads 
+are determined from actual quotes and traded prices and incorporate considerations of credit/default, sector composition, and 
+liquidity and call features. Where market data is not available, valuations are developed based on the modelling techniques that 
+utilise observable inputs and option-adjusted spreads and incorporate considerations of the security’s seniority, maturity and the 
+issuer’s corporate structure.
+
+Values of mortgage- and asset-backed securities are obtained both from third-party pricing vendors and through quoted prices, 
+some of which may be based on the prices of comparable securities with similar structural and collateral features. Values of 
+certain asset-backed securities (aBS) for which there are no significant observable inputs are developed using benchmarks  
+to similar transactions or indices. For both residential mortgage-backed securities (RMBS) and commercial mortgage-backed 
+securities (CMBS), cash flows are derived based on the transaction-specific information, which incorporates priority in the 
+capital structure, and are generally adjusted to reflect benchmark yields, market prepayment data, collateral performance 
+(default rates and loss severity) for specific vintage and geography, credit enhancements, and ratings. For certain RMBS and 
+CMBS with low levels of market liquidity, judgements may be required to determine comparable securities based on the loan  
+type and deal-specific performance. CMBS terms may also incorporate lock-out periods that restrict borrowers from prepaying  
+the loans or provide disincentives to prepay and therefore reduce prepayment risk of these securities, compared to RMBS.  
+The factors specifically considered in valuation of CMBS include borrower-specific statistics in a specific region, such as debt 
+service coverage and loan-to-value ratios, as well as the type of commercial property. Mortgage- and asset-backed securities 
+also includes debt securitised by credit card, student loan and auto loan receivables. Pricing inputs for these securities also focus 
+on capturing, where relevant, collateral quality and performance, payment patterns, and delinquencies. 
+
+The Group uses third-party pricing vendor data to value agency securitised products, which mainly include collateralised 
+mortgage obligations (CMO) and mortgage-backed government agency securities. The valuations generally utilise observable 
+inputs consistent with those noted above for RMBS and CMBS.
+
+Equity securities held by the Group for proprietary investment purposes are mainly classified in level 1. Securities classified  
+in level 1 are traded on public stock exchanges for which quoted prices are readily available. 
+
+The category “Other invested assets” includes the Group’s private equity and hedge fund investments which are made directly 
+or via ownership of funds. Substantially all of these investments are classified as level 3 due to the lack of observable prices  
+and significant judgement required in valuation. Valuation of direct private equity investments requires significant management 
+judgement due to the absence of quoted market prices and the lack of liquidity. Initial valuation is based on the acquisition cost, 
+and is further refined based on the available market information for the public companies that are considered comparable to the 
+Group’s holdings in the private companies being valued, and the private company-specific performance indicators; both historic 
+and projected. Subsequent valuations also reflect business or asset appraisals, as well as market transaction data for private and 
+public benchmark companies and the actual companies being valued, such as financing rounds and mergers and acquisitions 
+activity. The Group’s holdings in the private equity and hedge funds are generally valued utilising net asset values (naV), subject 
+to adjustments, as deemed necessary, for restrictions on redemption (lock-up periods and amount limitations on redemptions).
+
+The Group holds both exchange-traded and (OTC) interest rate, foreign exchange, credit and equity derivative contracts for 
+hedging and trading purposes. The fair values of exchange-traded derivatives measured using observable exchange prices 
+are classified in level 1. Long-dated contracts may require adjustments to the exchange-traded prices which would trigger 
+reclassification to level 2 in the fair value hierarchy. OTC derivatives are generally valued by the Group based on the internal 
+models, which are consistent with industry standards and practices, and use both observable (dealer, broker or market 
+consensus prices, spot and forward rates, interest rate and credit curves and volatility indices) and unobservable inputs 
+(adjustments for liquidity, inputs derived from the observable data based on the Group’s judgements and assumptions).
+
+Swiss Re 2015 Financial Report  201
+
+

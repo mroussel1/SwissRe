@@ -1,0 +1,52 @@
+Risk ANd CApiTAl mANAgEmENT
+
+The primary liquidity stress test is based 
+on a one-year time horizon, a loss event 
+corresponding to 99% Tail Value at Risk 
+(see pages 64–65), and a three-notch 
+ratings downgrade.
+
+swiss Re’s liquidity stress tests are 
+reviewed regularly and their main 
+assumptions are approved by the group 
+Executive Committee. swiss Re provides 
+FiNmA with a yearly report on its liquidity 
+position, in accordance with FiNmA’s 
+circular 13/5,“liquidity — insurers.”
+
+Liquidity position of the 
+Swiss Reinsurance Company Ltd 
+(SRZ) liquidity pool
+The sRZ liquidity pool is the primary 
+liquidity pool of the group. The estimated 
+total liquidity sources in the sRZ liquidity 
+pool available within one year, after 
+haircuts and net of short-term loans  
+from swiss Re ltd, amounted to 
+Usd 19.6 billion as  
+
+of 31 december 2015, compared 
+with Usd 20.4 billion as of 
+31 december 2014. The 2015 total 
+includes Usd 13.7 billion of liquid assets 
+and cash, referred to as “spot liquidity”, 
+compared with Usd 15.0 billion in 2014. 
+Based on the internal liquidity stress tests 
+described above, we estimate that the 
+sRZ liquidity pool holds surplus liquidity 
+after dividends to swiss Re ltd.
+
+in 2015, the amount of surplus liquidity 
+improved slightly. The reduction of 
+liquidity due to the payment of the 
+dividend for 2014 to swiss Re ltd and 
+repayments of external debt was more 
+than offset by positive operating cash 
+flows, dividends from subsidiaries as well 
+as a reduction in contingent funding 
+requirements stemming from extreme 
+stress loss events.
+
+58  Swiss Re 2015 Financial Report
+
+

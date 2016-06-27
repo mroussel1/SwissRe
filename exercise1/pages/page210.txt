@@ -1,0 +1,91 @@
+FInanCIaL STaTEMEnTS
+notes to the Group financial statements
+
+Other invested assets measured at net asset value
+Other invested assets measured at net asset value as of 31 December, respectively, were as follows:
+
+USD millions
+Private equity funds
+Hedge funds
+Private equity direct
+Real estate funds
+Total
+
+2014 
+Fair value
+710
+344
+109
+203
+1 366
+
+2015 
+Fair value
+686
+135
+121
+203
+1 145
+
+Unfunded 
+commitments
+150
+
+57
+207
+
+Redemption frequency 
+(if currently eligible)
+non-redeemable
+redeemable1
+non-redeemable
+non-redeemable
+
+Redemption  
+notice period
+n.a.
+45‒95 days2
+n.a.
+n.a.
+
+1  The redemption frequency varies by position.
+2  Cash distribution can be delayed for an extended period depending on the sale of the underlyings.
+
+The hedge fund investments employ a variety of strategies, including global macro, relative value, event-driven and long/short 
+equity across various asset classes.
+
+The private equity direct portfolio consists of equity and equity-like investments directly in other companies. These investments 
+have no contractual term and are generally held based on financial or strategic intent.
+
+Private equity and real estate funds generally have limitations imposed on the amount of redemptions from the fund during the 
+redemption period due to illiquidity of the underlying investments. Fees may apply for redemptions or transferring of interest to 
+other parties. Distributions are expected to be received from these funds as the underlying assets are liquidated over the life of 
+the fund, which is generally from 10 to 12 years.
+
+The redemption frequency of hedge funds varies depending on the manager as well as the nature of the underlying product. 
+additionally, certain funds may impose lock-up periods and redemption gates as defined in the terms of the individual  
+investment agreement.
+
+Fair value option
+The fair value option under the Financial Instruments Topic permits the choice to measure specified financial assets and liabilities 
+at fair value on an instrument-by-instrument basis.
+
+The Group elected the fair value option for positions in the following line items in the balance sheet:
+
+Other invested assets 
+The Group elected the fair value option for certain investments classified as equity method investees within other invested assets 
+in the balance sheet. The Group applied the fair value option, as the investments are managed on a fair value basis. The changes 
+in fair value of these elected investments are recorded in earnings.
+
+Funds held by ceding companies 
+For operational efficiencies, the Group elected the fair value option for funds held by the cedent under three of its reinsurance 
+agreements. The assets are carried at fair value and changes in fair value are reported as a component of earnings. 
+
+Liabilities for life and health policy benefits 
+The Group elected the fair value option for existing GMDB reserves related to certain variable annuity contracts which are 
+classified as universal life-type contracts. The Group has applied the fair value option, as the equity risk associated with  
+those contracts is managed on a fair value basis and it is economically hedged with derivative options in the market.
+
+208  Swiss Re 2015 Financial Report
+
+

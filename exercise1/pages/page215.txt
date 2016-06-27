@@ -1,0 +1,88 @@
+Non-hedging activities
+The Group primarily uses derivative financial instruments for risk management and trading strategies. Gains and losses  
+of derivative financial instruments not designated as hedging instruments are recorded in “net realised investment  
+gains/losses — non-participating business” in the income statement. For the years ended 31 December, the gains  
+and losses of derivative financial instruments not designated as hedging instruments were as follows:
+
+USD millions
+Derivatives not designated as hedging instruments
+Interest rate contracts
+Foreign exchange contracts
+Equity contracts
+Credit contracts
+Other contracts
+Total gain/loss recognised in income
+
+2014
+
+–225
+42
+–172
+9
+–312
+–658
+
+2015
+
+51
+435
+–192
+–5
+247
+536
+
+Hedging activities
+The Group designates certain derivative financial instruments as hedging instruments. The designation of derivative financial 
+instruments is primarily used for overall portfolio and risk management strategies. as of 31 December 2014 and 2015,  
+the following hedging relationships were outstanding:
+
+Fair value hedges 
+The Group enters into foreign exchange swaps to reduce the exposure to foreign exchange volatility for certain of its issued  
+debt positions and fixed income securities. These derivative instruments are designated as hedging instruments in qualifying fair  
+value hedges. Gains and losses on derivative financial instruments designated as fair value hedging instruments are recorded in  
+“net realised investment gains/losses ― non-participating business” in the income statement. For the years ended 31 December,  
+the gains and losses attributable to the hedged risks were as follows:
+
+ 
+USD millions
+Fair value hedging relationships
+Foreign exchange contracts
+Total gain/loss recognised in income
+
+Gains/losses  
+on derivatives
+
+2014
+Gains/losses on  
+hedged items 
+
+Gains/losses  
+on derivatives
+
+2015
+Gains/losses on  
+hedged items 
+
+122
+122
+
+–120
+–120
+
+119
+119
+
+–119
+–119
+
+Hedges of the net investment in foreign operations 
+The Group designates derivative and non-derivative monetary financial instruments as hedging the foreign currency exposure 
+of its net investment in certain foreign operations.
+
+For the years ended 31 December 2014 and 2015, the Group recorded an accumulated net unrealised foreign currency 
+remeasurement gain of USD 894 million and a gain of USD 1 631 million, respectively, in shareholders’ equity. These offset 
+translation gains and losses on the hedged net investment.
+
+Swiss Re 2015 Financial Report  213
+
+

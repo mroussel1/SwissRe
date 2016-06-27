@@ -1,0 +1,153 @@
+FInanCIaL STaTEMEnTS
+notes to the Group financial statements
+
+Gains and losses on assets and liabilities measured at fair value on a recurring basis using significant unobservable 
+inputs (level 3)
+The gains and losses relating to the assets and liabilities measured at fair value using significant unobservable inputs (level 3) 
+for the years ended 31 December were as follows:
+
+USD millions
+Gains/losses included in net income for the period
+
+Whereof change in unrealised gains/losses relating to assets and liabilities still held at the reporting date
+
+2014
+483
+167
+
+2015
+202
+–12
+
+Assets and liabilities measured at fair value on a non-recurring basis
+In accordance with the provisions of FaSB Codification Topic 323, Investments-Equity Method and Joint Ventures, an equity  
+method investment with a carrying amount of USD 268 million was written down to its fair value of USD 185 million resulting  
+in an impairment charge of USD 83 million, which was included in earnings for the period in “net investment income –  
+non-participating business”. This non-recurring fair value measurement was based on level 3 unobservable inputs using a  
+discounted cash flow approach. The Group has performed an impairment analysis which suggests that, although the expected 
+future cash flows (i.e. future dividend payments) could ultimately recover the current carrying value over approximately ten years, 
+the recent decline in dividends as well as the forward outlook indicate that the decline in fair value is not temporary.
+
+Quantitative information about level 3 fair value measurements
+Unobservable inputs for major level 3 assets and liabilities as of 31 December were as follows:
+
+2014 
+Fair value
+
+2015  
+
+Fair value Valuation technique
+
+Unobservable input
+
+Range  
+(weighted average)
+
+388
+317
+
+380
+241 Corporate Spread Matrix
+
+Illiquidity premium
+
+71
+
+51 Discounted Cash Flow Model
+
+Illiquidity premium
+
+86 Discounted Cash Flow Model
+
+Valuation spread
+
+5 bps–186 bps  
+(49 bps)
+75 bps–175 bps  
+(132 bps)
+176 bps–191 bps  
+(180 bps)
+
+396
+396
+
+334
+334 Proprietary Option Model
+
+Correlation
+
+–60%–100% (20%)1
+
+–130
+–46
+
+–38
+–38 Proprietary Option Model
+
+–803 –689
+
+–639 –567 Discounted Cash Flow Model
+
+Correlation
+
+–60%–100% (20%)1
+
+4% (n.a.)
+Risk margin
+4%–42%
+Volatility
+0.5%–33%
+Lapse
+Mortality adjustment
+–10%–0%
+0%–90%
+Withdrawal rate
+8%-11% (10%)
+Risk Margin
+–90%–80% (21%)
+Correlation
+28%–115% (53%)
+Volatility (power/gas)
+0–356 (140) HDD/CaT2
+Volatility (temperature)
+Index value (temperature) 6–6032 (1969) HDD/CaT2
+
+USD millions
+Assets
+Corporate debt securities
+
+Private placement corporate debt
+
+Private placement credit tenant 
+leases
+Infrastructure loan
+
+Derivative equity contracts
+
+OTC equity option referencing  
+correlated equity indices
+
+Liabilities
+Derivative equity contracts
+
+OTC equity option referencing  
+correlated equity indices
+
+Other derivative contracts and liabilities 
+for life and health policy benefits
+
+Variable annuity and                                                    
+fair valued GMDB contracts
+
+Weather contracts
+
+–40
+
+–82 Proprietary Option Model
+
+1  Represents average input value for the reporting period.
+2  Heating Degree Days (HDD); Cumulative average Temperature (CaT).
+
+206  Swiss Re 2015 Financial Report
+
+

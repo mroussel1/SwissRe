@@ -1,0 +1,111 @@
+Swiss Re’s risk landscape
+The risk categories shown 
+in the table on the right are 
+discussed on the following 
+pages. Across these 
+categories we identify and 
+evaluate emerging threats  
+and opportunities through a 
+systematic framework that 
+includes the assessment of 
+potential surprise factors  
+that could affect known loss 
+potentials. Liquidity risk 
+management is discussed 
+above, on page 57.
+
+Core modelled risks
+
+Property and casualty
+ ̤ Costing and reserving
+ ̤ inflation
+ ̤ man-made risks
+ ̤ Natural catastrophes
+
+Life and health
+ ̤ lethal pandemic
+ ̤ longevity
+ ̤ mortality trend
+
+Other significant risks
+
+Operational
+
+Regulatory
+
+Liquidity
+
+Political
+
+Emerging risks
+
+Financial market  
+and credit
+ ̤ Credit (default 
+and migration)
+ ̤ Credit spread
+ ̤ Equity market
+ ̤ Foreign exchange
+ ̤ interest rate
+ ̤ Real estate 
+ ̤ Fm inflation
+
+Strategic
+
+Sustainability
+
+Group capital requirement based on one-year 99% tail VaR
+
+Usd billions, as of 31 december
+property and casualty
+life and health
+Financial market
+Credit1
+Simple sum
+diversification effect
+Swiss Re Group
+
+2014
+9.1
+8.0
+12.2
+2.6
+31.9
+–12.9
+19.1
+
+2015
+9.4
+7.2
+12.6
+3.4
+32.7
+−13.1
+19.6
+
+Change in %
+4
+−10
+4
+29
+2
+
+3
+
+cross reference 
+information
+see page 66
+see page 67
+see page 68
+see page 69
+
+1  Credit comprises credit default and credit migration risk from both asset management and underwriting. Credit spread risk falls under financial market risk.
+
+Our internal risk model takes account of the accumulation and diversification between individual risks. The effect of 
+diversification at the category level is demonstrated in the table above, which represents the difference between the group  
+99% tail VaR and the sum of standalone tail VaR amounts in the individual risk categories. The extent of diversification is largely 
+determined by the selected level of aggregation — the higher the aggregation level, the lower the diversification effect.
+
+Swiss Re 2015 Financial Report  65
+
+

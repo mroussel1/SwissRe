@@ -1,0 +1,186 @@
+6  Deferred acquisition costs (DAC) and acquired present value of future profits (PVFP)
+
+As of 31 December, the DAC were as follows:
+
+2014 
+USD millions
+Opening balance as of 1 January 
+Deferred
+Effect of acquisitions/disposals and retrocessions
+Amortisation
+Effect of foreign currency translation 
+Closing balance as of 31 December
+
+2015 
+USD millions
+Opening balance as of 1 January 
+Deferred
+Effect of acquisitions/disposals and retrocessions
+Amortisation
+Effect of foreign currency translation 
+Closing balance as of 31 December 
+
+Property & Casualty 
+Reinsurance
+1 591
+3 563
+
+–3 332
+–66
+1 756
+
+Property & Casualty 
+Reinsurance
+1 756
+4 132
+7
+–3 793
+–51
+2 051
+
+Life & Health 
+Reinsurance
+2 845
+490
+–28
+–448
+–136
+2 723
+
+Life & Health 
+Reinsurance
+2 723
+1 053
+2
+–594
+–152
+3 032
+
+Corporate 
+Solutions
+319
+507
+
+–463
+–3
+360
+
+Corporate 
+Solutions
+360
+486
+
+–459
+
+387
+
+Admin Re®
+1
+
+1
+
+Admin Re®
+1
+
+1
+
+Total
+4 756
+4 560
+–28
+–4 243
+–205
+4 840
+
+Total
+4 840
+5 671
+9
+–4 846
+–203
+5 471
+
+Retroceded DAC may arise on retrocession of reinsurance portfolios, including reinsurance undertaken as part of a securitisation.  
+The associated potential retrocession recoveries are determined by the nature of the retrocession agreements and by the terms 
+of the securitisation.
+
+As of 31 December, the PVFP was as follows:
+
+USD millions
+Opening balance as of 1 January
+Effect of acquisitions/disposals and retrocessions
+Amortisation
+Interest accrued on unamortised PVFP
+Effect of foreign currency translation 
+Effect of change in unrealised gains/losses
+Closing balance as of 31 December
+
+Life & Health 
+Reinsurance
+1 451
+
+–156
+44
+–45
+
+Admin Re®
+2 086
+165
+–261
+103
+–90
+
+1 294
+
+2 003
+
+2014
+
+Total
+3 537
+165
+–417
+147
+–135
+0
+3 297
+
+Life & Health 
+Reinsurance
+1 294
+
+–159
+40
+–41
+
+1 134
+
+Admin Re®
+2 003
+2
+–191
+84
+–77
+9
+1 830
+
+2015
+
+Total
+3 297
+2
+–350
+124
+–118
+9
+2 964
+
+Retroceded PVFP may arise on retrocession of reinsurance portfolios, including reinsurance undertaken as part of a securitisation. 
+The associated potential retrocession recoveries are determined by the nature of the retrocession agreements and by the terms 
+of the securitisation.
+
+The percentage of PVFP which is expected to be amortised in each of the next five years is 9%, 9%, 8%, 8% and 7%.
+
+Swiss Re 2015 Financial Report  191
+
+

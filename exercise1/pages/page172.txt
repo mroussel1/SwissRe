@@ -1,0 +1,44 @@
+FINANCIAL STATEMENTS
+Notes to the Group financial statements
+
+separable from the loan before foreclosure. Upon foreclosure, the separate other receivable should be measured based on the 
+amount of the loan balance expected to be recovered from the guarantor. The Group adopted ASU 2014-14 on 1 January 2015. 
+The adoption did not have an effect on the Group’s financial statements.
+
+In May 2015, the FASB issued ASU 2015-09, “Disclosures about Short-Duration Contracts”, an update to topic 944, “Financial 
+Services — Insurance”. ASU 2015-09 requires an insurance entity to provide additional information about insurance liabilities, 
+including information on the nature, amount, timing, and uncertainty of future cash flows related to insurance liabilities and the 
+effect of those cash flows on the statement of comprehensive income. Requirements include disaggregated incurred and paid 
+claims development information by accident year, on a net basis after risk mitigation, for at least the most recent 10 years with  
+the periods preceding the current period considered required supplementary information. In addition, for each accident  
+year presented in the claims development tables, an insurer has to provide disaggregated information about claim frequency  
+(unless impracticable) and the amounts of incurred-but-not-reported (IBNR) liabilities plus the expected development on 
+reported claims. Required disclosures also include a description of the methods for determining both IBNR and expected 
+development on reported claims as well as information about any significant changes in methods and assumptions used in the 
+computation of the liability for unpaid claims and claim adjustment expenses, including reasons for the changes and the impact 
+of the changes on the most recent reporting period in the financial statements. All aforementioned disclosures have to be 
+provided on an annual basis. In addition, insurance entities must disclose the roll-forward of the liability for unpaid claims and 
+claim adjustment expenses in both interim and annual periods. The Group will adopt the annual disclosure requirements for  
+the annual reporting period ending on 31 December 2016, and the interim disclosure requirements for the quarter ending  
+on 31 March 2017. The Group has set up a project to implement the new requirements.
+
+In January 2016, the FASB issued ASU 2016-01, “Recognition and Measurement of Financial Assets and Financial Liabilities“, 
+an update to subtopic 825-10, “Financial Instruments – Overall“. The ASU requires an entity to carry investments in equity 
+securities, including other ownership interests and limited liability companies at fair value through net income, with the exception 
+of equity method investments, investments that result in consolidation or investments for which the entity has elected the 
+practicability exception to fair value measurement. The practicability exception can only be applied by certain entities and only  
+to equity investments without a readily determinable fair value. Investments under the practicability exception will be subject to 
+an indicator-based impairment test. For financial liabilities to which the fair value option has been applied, the ASU also requires 
+an entity to separately present the change in fair value attributable to instrument-specific credit risk in other comprehensive 
+income rather than in net income. Specific exceptions apply to this requirement. In addition, the ASU requires an entity to assess 
+whether a valuation allowance is needed on a deferred tax asset (DTA) related to fixed income securities AFS in combination 
+with the entity‘s other DTA‘s rather than separately from other DTAs. The ASU also introduces changes to disclosure 
+requirements for financial instruments not measured at fair value and introduces new requirements for equity instruments where 
+the practicability exception to fair value measurement is applied. The new requirements are effective for annual and interim 
+periods beginning after 15 December 2017 with early adoption permitted for requirements relating to the presentation of the 
+impact of instrument-specific credit risk on qualifying financial liabilities in other comprehensive income. The Group is currently 
+assessing the impact of the new requirements.
+
+170  Swiss Re 2015 Financial Report
+
+

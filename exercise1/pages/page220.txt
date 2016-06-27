@@ -1,0 +1,66 @@
+FInanCIaL STaTEMEnTS
+notes to the Group financial statements
+
+Interest expense on long-term debt and contingent capital instruments
+Interest expense on long-term debt for the years ended 31 December was as follows:
+USD millions
+Senior financial debt
+Senior operational debt
+Subordinated financial debt
+Subordinated operational debt
+Total 
+
+2014
+120
+16
+300
+231
+667
+
+2015
+118
+13
+236
+137
+504
+
+In addition to the above, interest expense on contingent capital instruments classified as equity was USD 69 million and 
+USD 68 million for the years ended 31 December 2014 and 2015, respectively.
+
+Long-term debt issued in 2015
+In January 2015, Swiss Reinsurance Company Ltd issued senior notes due 2027. The notes have a face value of  
+CHF 250 million, with a fixed coupon of 0.75% per annum.
+
+In april 2015, Swiss Reinsurance Company Ltd issued EUR 750 million face amount of perpetual subordinated fixed-to-floating 
+rate callable loan notes with a first optional redemption date on 1 September 2025. The notes bear interest through the first 
+optional redemption date at 2.60% per annum. The notes were issued in connection with a concurrent exchange of part of the 
+EUR 1 billion 5.252% Perpetual Subordinated Step-Up Loan notes issued by Swiss Reinsurance Company Ltd.
+
+Subordinated debt facility established in 2015 
+In november 2015, Swiss Re Ltd established a subordinated debt facility with a termination date of 15 august 2025.  
+The facility allows Swiss Re Ltd to issue at any time subordinated fixed-to-floating rate callable notes with a face value of  
+up to USD 700 million, having a first optional redemption date of 15 august 2025 and a maturity date of 15 august 2050.  
+Swiss Re Ltd pays a fee of 3.53% per annum on the available commitment under the facility. notes issued under the facility  
+have a fixed coupon of 5.75% per annum until the first optional redemption date. 
+
+In these financial statements, the facility fee is classified as interest expense. notes, when issued under the facility, will be 
+classified as subordinated debt. as of 31 December 2015, no notes have been issued under the facility.
+
+Contingent capital instruments
+In February 2012, Swiss Reinsurance Company Ltd issued a perpetual subordinated instrument with stock settlement.  
+The instrument has a face value of CHF 320 million, with a fixed coupon of 7.25% per annum until the first optional redemption 
+date (1 September 2017).
+
+In March 2012, Swiss Reinsurance Company Ltd issued a perpetual subordinated capital instrument with stock settlement.  
+The instrument has a face value of USD 750 million, with a fixed coupon of 8.25% per annum until the first optional redemption 
+date (1 September 2018).
+
+Both instruments may be converted, at the option of the issuer, into Swiss ReSwiss Re Ltd shares at any time through at market 
+conversion using the retrospective five-day volume weighted average share price with a 3% discount or within six months 
+following a solvency event at a pre-set floor price (CHF 26 for the instrument with face value of CHF 320 million and USD 32 for 
+the instrument with face value of USD 750 million, respectively). These instruments are referred to in these financial statements  
+as “contingent capital instruments”.
+
+218  Swiss Re 2015 Financial Report
+
+

@@ -1,0 +1,64 @@
+FINANCIAL STATEMENTS
+Notes to the Group financial statements
+
+Other invested assets include affiliated companies, equity accounted companies, derivative financial instruments, collateral 
+receivables, securities purchased under agreement to resell, deposits and time deposits, and investments without readily 
+determinable fair value (including limited partnership investments). Investments in limited partnerships where the Group’s 
+interest equals or exceeds 3% are accounted for using the equity method. Investments in limited partnerships where the Group’s 
+interest is below 3% and equity investments in corporate entities which are not publicly traded are accounted for at estimated 
+fair value with changes in fair value recognised as unrealised gains/losses in shareholders’ equity.
+
+The Group enters into securities lending arrangements under which it loans certain securities in exchange for collateral and 
+receives securities lending fees. The Group’s policy is to require collateral, consisting of cash or securities, equal to at least 102% 
+of the carrying value of the securities loaned. In certain arrangements, the Group may accept collateral of less than 102% if the 
+structure of the overall transaction offers an equivalent level of security. Cash received as collateral is recognised along with an 
+obligation to return the cash. Securities received as collateral that can be sold or repledged are also recognised along with an 
+obligation to return those securities. Securities lending fees are recognised over the term of the related loans.
+
+Derivative financial instruments and hedge accounting
+The Group uses a variety of derivative financial instruments including swaps, options, forwards and exchange-traded financial 
+futures for the Group’s trading and hedging strategy in line with the overall risk management strategy. Derivative financial 
+instruments are primarily used as a means of managing exposure to price, foreign currency and/or interest rate risk on planned 
+or anticipated investment purchases, existing assets or existing liabilities and also to lock in attractive investment conditions  
+for funds which become available in the future. The Group recognises all of its derivative instruments on the balance sheet at  
+fair value. Changes in fair value on derivatives that are not designated as hedging instruments are recorded in income.
+
+If the derivative is designated as a hedge of the fair value of assets or liabilities, changes in the fair value of the derivative are 
+recognised in earnings, together with changes in the fair value of the related hedged item. If the derivative is designated as a 
+hedge of the variability in expected future cash flows related to a particular risk, changes in the fair value of the derivative are 
+reported in other comprehensive income until the hedged item is recognised in earnings. The ineffective portion of the hedge is 
+recognised in earnings. When hedge accounting is discontinued on a cash flow hedge, the net gain or loss remains in accumulated 
+other comprehensive income and is reclassified to earnings in the period in which the formerly hedged transaction is reported 
+in earnings. When the Group discontinues hedge accounting because it is no longer probable that a forecasted transaction will 
+occur within the required time period, the derivative continues to be carried on the balance sheet at fair value, and gains and 
+losses that were previously recorded in accumulated other comprehensive income are recognised in earnings.
+
+The Group recognises separately derivatives that are embedded within other host instruments if the economic characteristics 
+and risks are not clearly and closely related to the economic characteristics and risks of the host contract and if it meets the 
+definition of a derivative if it were a free-standing contract.
+
+Derivative financial instrument assets are generally included in other invested assets and derivative financial instrument liabilities 
+are generally included in accrued expenses and other liabilities.
+
+The Group also designates non-derivative and derivative monetary financial instruments as hedges of the foreign currency 
+exposure of its net investment in certain foreign operations. From the inception of the hedging relationship, remeasurement 
+gains and losses on the designated non-derivative and derivative monetary financial instruments and translation gains and  
+losses on the hedged net investment are reported as translation gains and losses in shareholders’ equity.
+
+Cash and cash equivalents
+Cash and cash equivalents include cash on hand, short-term deposits, certain short-term investments in money market funds, 
+and highly liquid debt instruments with a remaining maturity at the date of acquisition of three months or less.
+
+Deferred acquisition costs
+The Group incurs costs in connection with acquiring new and renewal reinsurance and insurance business. Some of these costs, 
+which consist primarily of commissions, are deferred as they are directly related to the successful acquisition of such business.
+
+Deferred acquisition costs for short-duration contracts are amortised in proportion to premiums earned. Future investment income 
+is considered in determining the recoverability of deferred acquisition costs for short-duration contracts. Deferred acquisition 
+costs for long-duration contracts are amortised over the life of underlying contracts. Deferred acquisition costs for universal-life 
+and similar products are amortised based on the present value of estimated gross profits. Estimated gross profits are updated 
+quarterly.
+
+164  Swiss Re 2015 Financial Report
+
+

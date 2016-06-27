@@ -4,6 +4,74 @@ Amstelveen
 Cape Town
 New Jersey
 Zurich
+Munich
+St. Peter Port
+Triesen
+Senningerberg
+Shropshire
+London
+Bridgetown
+Hamilton
+São Paulo
+George Town
+Bogota
+Burlington
+Jefferson City
+Manchester
+Wilmington
+New York
+Dover
+Armonk
+Cape Town
+Sydney
+Shanghai
+Hanoi
+Overland Park
+Toronto
+Mexico City
+Madrid
+Paris
+Rome
+Beijing
+Tokyo
+Mumbai
+Kuala Lumpur
+Seoul
+Bangalore
+Copenhagen
+Milan
+Tel Aviv
+Bratislava
+Rüschlikon
+Alpharetta
+Austin
+Chicago
+Dallas
+Fort Wayne
+Miami
+San Francisco
+Schamburg
+Southfield
+Washington DC
+Westlake Village
+Windsor
+Boise
+Charlotte
+Denver
+Hiawatha
+Houston
+Needham
+Philadelphia
+Richmond
+Santa Ana
+Seattle
+Cali 
+Medellin
+Genoa
+Dubai
+Frankfurt
+Nanjing
+Johannesburg
 Afghanistan
 Albania
 Algeria
@@ -118,7 +186,6 @@ Jordan
 Kazakhstan
 Kenya
 Kiribati
-Korea
 Korea
 Kuwait
 Kyrgyzstan

@@ -1,0 +1,147 @@
+employees can invest some or all of their 
+cash api in shares under the incentive 
+share plan (isp). 
+ 
+Value Alignment Incentive 
+Purpose 
+the Vai is a mandatory deferral of a 
+portion of the api and introduces a time 
+component to this discretionary, variable 
+compensation. this supports the Group’s 
+business model by aligning a portion of 
+variable compensation with sustained 
+long-term results. the aim is to ensure 
+that the ultimate value of the deferred 
+variable compensation through Vai is 
+affected by the longer-term performance 
+of the relevant Business Unit and the 
+Group.
+
+Plan duration
+the Vai supports a longer-term 
+perspective by linking awards to 
+performance over a three-year period.
+
+Performance measurement 
+starting with the 2015 award, the 
+performance measurement calculation 
+has been simplified to increase 
+transparency. this was achieved  
+by using fewer performance factors  
+(at the Business Unit and Group level) 
+and, where possible, published eVm 
+information.
+
+Structure
+the higher the api granted, the greater 
+the amount of compensation that remains 
+at risk through deferral into the Vai,  
+as shown in the table below.
+
+the payout factor of the Vai is calculated 
+based on the three-year average eVm 
+previous years’ business profit margin  
+for all prior underwriting years. eVm is 
+swiss Re’s integrated economic valuation 
+and reporting framework for planning, 
+pricing, reserving, and steering the 
+business (please refer to the eVm  
+section on pages 55–56 of this Financial 
+Report). the eVm previous years’ 
+
+business profit margin is the ratio  
+of eVm previous years’ business profit to 
+eVm capital allocated to previous years’ 
+business in the current year. 
+
+a higher eVm previous years’ profit 
+margin (for all prior underwriting years) 
+results in a higher payout factor. 
+Conversely, a lower eVm previous years’ 
+profit margin results in a lower payout 
+factor. the payout factor is a linear 
+function that ranges from 50% to 150%.
+
+Settlement
+at the end of the deferral period, Vai will 
+be settled in cash. For the full three-year 
+performance measurement period, 
+forfeiture conditions apply. 
+
+additionally, clawback provisions apply  
+in a range of events as defined in the Vai 
+plan rules, enabling swiss Re to seek 
+repayment of settled awards. examples 
+of events are the participant’s conduct  
+or acts which can be considered as 
+malfeasance, fraud or misconduct.
+
+Portion of API that is deferred
+
+Group Ceo
+Group eC members
+Group managing Directors
+all other employees
+
+Deferral into Vai
+50% of api
+45% of api
+40% of api
+50% of the amount at or above UsD 100 000 
+up to a maximum of 40% of api
+
+total 2015 api 
+based on 2015 
+business  
+and individual  
+performance
+
+VAI
+award
+
+Cash
+API
+payment
+
+ 
+ 
+
+2016 
+
+ 
+
+measurement of the economic impact of profit/loss  
+from previous years’ business, measured over three years
+
+VAI  
+vesting 
+and
+payout
+
+150%
+
+100%
+
+50%
+
+payout  
+between
+50% and 
+150% of  
+award
+
+2017 
+
+ 
+
+2018 
+
+ 
+
+                 Vesting period
+
+2019
+
+Swiss Re 2015 Financial Report  135
+
+

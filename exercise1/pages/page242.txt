@@ -1,0 +1,39 @@
+FINANCIAl STATEmENTS
+Notes to the Group financial statements
+
+20  Variable interest entities
+
+The Group enters into arrangements with variable interest entities (VIEs) in the normal course of business. The involvement 
+ranges from being a passive investor to designing, structuring and managing the VIEs. The variable interests held by the Group 
+arise as a result of the Group’s involvement in certain insurance-linked and credit-linked securitisations, swaps in trusts, debt 
+financing and other entities which meet the definition of a VIE.
+
+When analysing the status of an entity, the Group mainly assesses if (1) the equity is sufficient to finance the entity’s activities 
+without additional subordinated financial support, (2) the equity holders have the right to make significant decisions affecting  
+the entity’s operations and (3) the holders of the voting rights substantively participate in the gains and losses of the entity.  
+When one of these criteria is not met, the entity is considered a VIE and needs to be assessed for consolidation under the VIE 
+section of the Consolidation Topic. 
+
+The party that has a controlling financial interest is called the primary beneficiary and consolidates the VIE. An enterprise is  
+deemed to have a controlling financial interest if it has both of the following:
+ ̤ the power to direct the activities of the VIE that most significantly impact the entity’s economic performance; and
+ ̤ the obligation to absorb losses of the entity that could potentially be significant to the VIE or the right to receive benefits 
+
+from the entity that could potentially be significant to the VIE. 
+
+The Group assesses for all its variable interests in VIEs whether it has a controlling financial interest in these entities and, thus, 
+is the primary beneficiary. For this, the Group identifies the activities that most significantly impact the entity’s performance and 
+determines whether the Group has the power to direct those activities. In conducting the analysis, the Group considers the 
+purpose, the design and the risks that the entity was designed to create and pass through to its variable interest holders. In a 
+second step,  
+the Group assesses if it has the obligation to absorb losses or if it has the right to receive benefits of the VIE that could potentially  
+be significant to the entity. If both criteria are met, the Group has a controlling financial interest in the VIE and consolidates the 
+entity.
+
+Whenever facts and circumstances change, a review is undertaken of the impact these changes could have on the consolidation 
+assessment previously performed. When the assessment might be impacted, a reassessment to determine the primary 
+beneficiary is performed.
+
+240  Swiss Re 2015 Financial Report
+
+

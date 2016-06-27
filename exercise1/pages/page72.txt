@@ -1,0 +1,180 @@
+probability
+
+Economic profit and 
+loss distribution 
+(one-year horizon)
+
+99.5% VaR
+
+99% VaR
+
+s
+s
+o
+
+ 
+
+l
+ 
+r
+a
+e
+y
+0
+0
+1
+n
+
+ 
+
+s
+s
+o
+
+ 
+
+l
+ 
+r
+a
+e
+y
+0
+0
+2
+n
+
+ 
+
+i
+ 
+
+1
+
+i
+ 
+
+1
+
+99% Tail VaR
+
+Expected result
+
+profit
+
+Average of 1% 
+worst losses
+
+loss
+
+in line with the ssT, the group measures 
+its total risk capital requirement at  
+the 99% shortfall (tail VaR) level.  
+This represents an estimate of the 
+average annual loss likely to occur with  
+a frequency of less than once in one 
+hundred years, thus capturing the 
+potential for severe, but rare, aggregate 
+losses.
+
+in addition, the model is used to 
+calculate value at risk (VaR) measures 
+including 99.5% VaR, which is used  
+in other regulatory regimes such as 
+solvency ii. 99.5% VaR represents the 
+loss likely to be exceeded in only one 
+year out of two hundred and is thus 
+more severe than the 99% VaR measure, 
+which estimates the loss likely to  
+be exceeded in one year out of one 
+hundred. 
+
+swiss Re’s risk model assesses the 
+potential economic loss at a specific 
+confidence level. There is thus a 
+possibility that actual losses may exceed 
+the selected threshold. in addition, the 
+reliability of the model may be limited 
+
+when future conditions are difficult  
+to predict. For this reason, the model  
+and its parameters are continuously 
+reviewed and updated to reflect 
+changes in the risk environment and 
+current best practice. in addition, the 
+group complements its risk models by 
+ensuring a sound understanding of the 
+underlying risks within the company  
+and by applying robust internal controls.
+
+in November, the luxembourg regulator 
+approved our internal model to be  
+used for our legal entities in continental 
+Europe, which report under the 
+solvency ii regime. 
+
+A major enhancement in 2015 was  
+the development of a new model  
+for European winter storm risk.  
+This proprietary model is used for 
+underwriting, business steering and  
+risk management purposes. it draws on 
+state-of-the-art research and technology 
+with a particular emphasis on expanding 
+the knowledge of historical winter 
+storms over the past 140 years. 
+
+Risk ANd CApiTAl mANAgEmENT
+Risk assessment
+
+Risk modelling  
+and risk measures
+
+swiss Re uses a proprietary integrated 
+risk model to determine the economic 
+capital required to support the risks on 
+the company’s books, as well as to 
+allocate risk-taking capacity to the 
+different lines of business. The group’s 
+internal risk model provides a 
+meaningful assessment of the risks to 
+which the company is exposed and  
+is an important tool for managing the 
+business. it is used for determining 
+capital requirements for internal 
+purposes as well as for regulatory 
+reporting under the swiss solvency  
+Test (ssT) and solvency ii for our legal 
+entities in continental Europe. The model 
+provides the basis for capital cost 
+allocation in swiss Re’s Economic Value 
+management (EVm) framework, which 
+is used for pricing, profitability evaluation 
+and compensation decisions  
+(see pages 55–56 for further 
+information on EVm).
+
+swiss Re’s internal model is based on 
+two important principles. First, it applies 
+an asset-liability management approach, 
+which measures the net impact of risk 
+on the economic value of both assets 
+and liabilities. second, it adopts an 
+integrated perspective, recognising that 
+a single risk factor can affect different 
+sub-portfolios and that different risk 
+factors can have mutual dependencies.
+
+The model generates a probability 
+distribution for the group’s economic 
+profit and loss over a one-year time 
+horizon, specifying the likelihood that 
+the outcome will fall within a given 
+range. The risk measures derived from 
+the model are expressed as economic 
+loss severities taken from the total 
+economic profit and loss distribution.  
+
+70  Swiss Re 2015 Financial Report
+
+

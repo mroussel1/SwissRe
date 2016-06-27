@@ -1,0 +1,39 @@
+Sensitivity of recurring level 3 measurements to changes in unobservable inputs
+The significant unobservable input used in the fair value measurement of the Group’s private placement corporate debt securities 
+and private placement credit tenant leases is illiquidity premium. a significant increase (decrease) in this input in isolation  
+would result in a significantly lower (higher) fair value measurement. The significant unobservable input used in the fair value 
+measurement of the Group’s infrastructure loan is valuation spread. a significant increase (decrease) in this input in isolation 
+would result in a significantly lower (higher) fair value measurement. 
+
+The significant unobservable input used in the fair value measurement of the Group’s OTC equity option referencing correlated 
+equity indices is correlation. Where the Group is long correlation risk, a significant increase (decrease) in this input in isolation 
+would result in a significantly higher (lower) fair value measurement. Where the Group is short correlation risk, a significant 
+increase (decrease) in this input in isolation would result in a significantly lower (higher) fair value measurement.
+
+The significant unobservable inputs used in the fair value measurement of the Group’s variable annuity and fair valued 
+guaranteed minimum death benefit (GMDB) contracts are: risk margin, volatility, lapse, mortality adjustment rate and with-
+drawal rate. a significant increase (decrease) in isolation in each of the following inputs: risk margin, volatility and withdrawal  
+rate would result in a significantly higher (lower) fair value of the Group’s obligation. a significant increase (decrease) in  
+isolation in a lapse rate for in-the-money contracts would result in a significantly lower (higher) fair value of the Group’s 
+obligation, whereas for out-of-the-money contracts, an isolated increase (decrease) in a lapse assumption would increase 
+(decrease) fair value of the Group’s obligation. Changes in the mortality adjustment rate impact fair value of the Group’s 
+obligation differently for living-benefit products, compared to death-benefit products. For the former, a significant increase 
+(decrease) in the mortality adjustment rate (ie increase (decrease) in mortality, respectively) in isolation would result in a  
+decrease (increase) in fair value of the Group’s liability. For the latter, a significant increase (decrease) in the mortality  
+adjustment rate in isolation would result in an increase (decrease) in fair value of the Group’s liability. 
+
+The significant unobservable inputs used in the fair value measurement of the Group’s weather contracts are risk margin, 
+correlation, volatility and index value. Where the Group has a long position, a significant increase (decrease) in the risk margin 
+input in isolation would result in a significantly higher (lower) fair value measurement. Where the Group has a long volatility or 
+correlation position Swiss Re a significant increase (decrease) in the correlation and volatility inputs would result in a significantly 
+higher (lower) fair value measurement. Where the Group has a long index position, an increase (decrease) in the index value 
+input in isolation would result in a significantly higher (lower) fair value measurement. Where the Group has a short position,  
+a significant increase (decrease) in the risk margin input in isolation would result in a significantly lower (higher) fair value 
+measurement. Where the Group has a short volatility or correlation position a significant increase (decrease) in the correlation 
+and volatility inputs would result in a significantly lower (higher) fair value measurement. Where the Group has a short index 
+position, an increase (decrease) in the index value input in isolation would result in a significantly lower (higher) fair value 
+measurement.
+
+Swiss Re 2015 Financial Report  207
+
+

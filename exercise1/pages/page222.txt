@@ -1,0 +1,75 @@
+financial statements
+notes to the Group financial statements
+
+13  income taxes
+
+the Group is generally subject to corporate income taxes based on the taxable net income in various jurisdictions in which the 
+Group operates. the components of the income tax charge were:
+
+UsD millions
+current taxes
+Deferred taxes
+Income tax expense
+
+2014
+1 072
+–414
+658
+
+Tax rate reconciliation
+the following table reconciles the expected tax expense at the swiss statutory tax rate to the actual tax expense in the 
+accompanying income statement: 
+
+UsD millions
+income tax at the swiss statutory tax rate of 21.0% 
+increase (decrease) in the income tax charge resulting from:
+
+foreign income taxed at different rates
+impact of foreign exchange movements
+tax exempt income/dividends received deduction
+change in valuation allowance
+Basis differences in subsidiaries
+change in liability for unrecognised tax benefits including interest and penalties
+Other, net
+
+Total 
+
+2014
+888
+
+137
+–86
+–105
+99
+–155
+–207
+87
+658
+
+2015
+582
+69
+651
+
+2015
+1 117
+
+303
+–180
+–93
+–72
+–306
+–126
+8
+651
+
+the Group reported a tax charge of UsD 651 million on a pre-tax income of UsD 5 319 million for 2015, compared to a charge  
+of UsD 658 million on a pre-tax income of UsD 4 227 million for 2014. this translates into an effective tax rate in the current  
+and prior-year reporting periods of 12.2% and 15.6%, respectively. the lower tax rate in 2015 was largely driven by a tax benefit 
+arising from a local statutory adjustment for the restructuring of subsidiaries, higher tax benefits from foreign currency translation 
+differences between statutory and GaaP accounts, and the release of valuation allowances partially offset by tax on profits 
+earned in higher tax jurisdictions.
+
+220  Swiss Re 2015 financial Report
+
+

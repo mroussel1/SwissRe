@@ -1,0 +1,65 @@
+FINANCIAL STATEMENTS
+Notes to the Group financial statements
+
+Life and health reinsurance premiums for group coverages are generally earned over the term of the coverage. For group contracts 
+that allow experience adjustments to premiums, such premiums are recognised as the related experience emerges.
+
+Reinstatement premiums are due where coverage limits for the remaining life of the contract are reinstated under pre-defined 
+contract terms. The recognition of reinstatement premiums as written depends on individual contract features. Reinstatement 
+premiums are either recognised as written at the time a loss event occurs or in line with the recognition pattern of premiums 
+written of the underlying contract. The accrual of reinstatement premiums is based on actuarial estimates of ultimate losses. 
+Reinstatement premiums are generally earned in proportion to the amount of reinsurance provided.
+
+Insurance and reinsurance ceded
+The Group uses retrocession arrangements to increase its aggregate underwriting capacity, to diversify its risk and to reduce 
+the risk of catastrophic loss on reinsurance assumed. The ceding of risks to retrocessionaires does not relieve the Group of its 
+obligations to its ceding companies. The Group regularly evaluates the financial condition of its retrocessionaires and monitors 
+the concentration of credit risk to minimise its exposure to financial loss from retrocessionaires’ insolvency. Premiums and losses 
+ceded under retrocession contracts are reported as reductions of premiums earned and claims and claim adjustment expenses. 
+Amounts recoverable for ceded short- and long-duration contracts, including universal life-type and investment contracts, are 
+reported as assets in the accompanying consolidated balance sheet.
+
+The Group provides reserves for uncollectible amounts on reinsurance balances ceded, based on management’s assessment  
+of the collectability of the outstanding balances. 
+
+Receivables
+Premium and claims receivables which have been invoiced are accounted for at face value. Together with assets arising from the 
+application of the deposit method of accounting that meet the definition of financing receivables they are regularly assessed for 
+impairment. Evidence of impairment is the age of the receivable and/or any financial difficulties of the counterparty. Allowances 
+are set up on the net balance, meaning all balances related to the same counterparty are considered. The amount of the allowance 
+is set up in relation to the time a receivable has been due and financial difficulties of the debtor, and can be as high as the 
+outstanding net balance.
+
+Pensions and other post-retirement benefits 
+The Group accounts for its pension and other post-retirement benefit costs using the accrual method of accounting.  
+Amounts charged to expense are based on periodic actuarial determinations.
+
+Share-based payment transactions
+As of 31 December 2015, the Group has a Leadership Performance Plan, stock option plans, restricted shares, an Employee 
+Participation Plan, and a Global Share Participation Plan. These plans are described in more detail in Note 15. The Group accounts 
+for share-based payment transactions with employees using the fair value method. Under the fair value method, the fair value of 
+the awards is recognised in earnings over the vesting period.
+
+For share-based compensation plans which are settled in cash, compensation costs are recognised as liabilities, whereas for 
+equity-settled plans, compensation costs are recognised as an accrual to additional paid-in capital within shareholders’ equity. 
+
+Treasury shares
+Treasury shares are reported at cost in shareholders’ equity. Treasury shares also include stand-alone derivative instruments 
+indexed to the Group’s shares that meet the requirements for classification in shareholders’ equity.
+
+Earnings per common share
+Basic earnings per common share are determined by dividing net income available to shareholders by the weighted average 
+number of common shares entitled to dividends during the year. Diluted earnings per common share reflect the effect on 
+earnings and average common shares outstanding associated with dilutive securities.
+
+Subsequent events
+Subsequent events for the current reporting period have been evaluated up to 15 March 2016. This is the date on which the 
+financial statements are available to be issued.
+
+Recent accounting guidance
+In January 2014, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2014-01, 
+“Accounting for Investments in Qualified Affordable Housing Projects (a consensus of the FASB Emerging Issues Task Force)”,  
+
+168  Swiss Re 2015 Financial Report
+
+

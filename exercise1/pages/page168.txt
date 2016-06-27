@@ -1,0 +1,61 @@
+FINANCIAL STATEMENTS
+Notes to the Group financial statements
+
+Income taxes
+Deferred income tax assets and liabilities are recognised based on the difference between financial statement carrying amounts 
+and the corresponding income tax bases of assets and liabilities using enacted income tax rates and laws. A valuation allowance 
+is recorded against deferred tax assets when it is deemed more likely than not that some or all of the deferred tax asset may not 
+be realised.
+
+The Group recognizes the effect of income tax positions only if sustaining those positions is more likely than not. Changes in 
+recognition or measurement are reflected in the period in which a change in judgement occurs. 
+
+Unpaid claims and claim adjustment expenses
+Liabilities for unpaid claims and claim adjustment expenses for property and casualty and life and health insurance and 
+reinsurance contracts are accrued when insured events occur and are based on the estimated ultimate cost of settling the 
+claims, using reports and individual case estimates received from ceding companies. A provision is also included for claims 
+incurred but not reported, which is developed on the basis of past experience adjusted for current trends and other factors  
+that modify past experience. The establishment of the appropriate level of reserves is an inherently uncertain process involving 
+estimates and judgements made by management, and therefore there can be no assurance that ultimate claims and claim 
+adjustment expenses will not exceed the loss reserves currently established. These estimates are regularly reviewed, and 
+adjustments for differences between estimates and actual payments for claims and for changes in estimates are reflected  
+in income in the period in which the estimates are changed or payments are made.
+
+The Group does not discount liabilities arising from prospective property and casualty insurance and reinsurance contracts, 
+including liabilities which are discounted for US statutory reporting purposes. Liabilities arising from property and casualty 
+insurance and reinsurance contracts acquired in a business combination are initially recognised at fair value in accordance  
+with the acquisition method of accounting. The Group does not discount life and health claim reserves except for disability 
+income claims in payment which are recognised at the estimated present value of the remaining ultimate net costs of the 
+incurred claims.
+
+Experience features which are directly linked to a reinsurance asset or liability are classified in a manner that is consistent with 
+the presentation of that asset or liability.
+
+Liabilities for life and health policy benefits
+Liabilities for life and health policy benefits from reinsurance business are generally calculated using the net level premium 
+method, based on assumptions as to investment yields, mortality, withdrawals, lapses and policyholder dividends. Assumptions 
+are set at the time the contract is issued or, in the case of contracts acquired by purchase, at the purchase date. The assumptions 
+are based on projections from past experience, making allowance for possible adverse deviation. Interest rate assumptions for 
+life and health (re)insurance benefit liabilities are based on estimates of expected investment yields. Assumed mortality rates are 
+generally based on experience multiples applied to the actuarial select and ultimate tables based on industry experience.
+
+Liabilities for life and health policy benefits are increased with a charge to earnings if it is determined that future cash flows, 
+including investment income, are insufficient to cover future benefits and expenses. Where assets backing liabilities for policy 
+benefits are held as AFS these liabilities for policyholder benefits are increased by a shadow adjustment, with a charge to other 
+comprehensive income, where future cash flows at market rates are insufficient to cover future benefits and expenses.
+
+Policyholder account balances
+Policyholder account balances relate to universal life-type contracts and investment contracts.
+
+Universal life-type contracts are long-duration insurance contracts, providing either death or annuity benefits, with terms that 
+are not fixed and guaranteed.
+
+Investment contracts are long-duration contracts that do not incorporate significant insurance risk, ie there is no mortality and 
+morbidity risk, or the mortality and morbidity risk associated with the insurance benefit features offered in the contract is of 
+insignificant amount or remote probability. Amounts received as payment for investment contracts are reported as policyholder 
+account balances. Related assets are included in general account assets except for investments for unit-linked and with-profit 
+business, which are presented in a separate line item on the face of the balance sheet.
+
+166  Swiss Re 2015 Financial Report
+
+

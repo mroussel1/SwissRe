@@ -1,0 +1,60 @@
+The Group considers both the credit risk of its counterparties and own risk of non-performance in the valuation of derivative 
+instruments and other over-the-counter financial assets. In determining the fair value of these financial instruments, the assessment 
+of the Group’s exposure to the credit risk of its counterparties incorporates consideration of existing collateral and netting 
+arrangements entered into with each counterparty. The measure of the counterparty credit risk is estimated with incorporation 
+of the observable credit spreads, where available, or credit spread estimates derived based on the benchmarking techniques 
+where market data is not available. The impact of the Group’s own risk of non-performance is analysed in the manner consistent 
+with the aforementioned approach, with consideration of the Group’s observable credit spreads. The value representing such risk 
+is incorporated into the fair value of the financial instruments (primarily derivatives), in a liability position as of the measurement 
+date. The change in this adjustment from period to period is reflected in realised gains and losses in the income statement.
+
+For assets or derivative structures at fair value, the Group uses market prices or inputs derived from market prices. A separate 
+internal price verification process, independent of the trading function, provides an additional control over the market prices or 
+market input used to determine the fair values of such assets. Although management considers that appropriate values have 
+been ascribed to such assets, there is always a level of uncertainty and judgement over these valuations. Subsequent valuations 
+could differ significantly from the results of the process described above. The Group may become aware of counterparty valuations, 
+either directly through the exchange of information or indirectly, for example, through collateral demands. Any implied differences 
+are considered in the independent price verification process and may result in adjustments to initially indicated valuations.  
+As of 31 December 2015, the Group has not provided any collateral on financial instruments in excess of its own market value 
+estimates.
+
+Investments
+The Group’s investments in fixed income and equity securities are classified as available-for-sale (AFS) or trading. Fixed income 
+securities AFS and equity securities AFS are carried at fair value, based on quoted market prices, with the difference between 
+the applicable measure of cost and fair value being recognised in shareholders’ equity. Trading fixed income and equity securities 
+are carried at fair value with unrealised gains and losses recognised in earnings. A trading classification is used for securities that 
+are bought and held principally for the purpose of selling them in the near term or for securities where the Group has decided to 
+apply the fair value option.
+
+The cost of equity securities AFS is reduced to fair value, with a corresponding charge to realised investment losses if the decline 
+in value, expressed in functional currency terms, is other-than-temporary. Subsequent recoveries of previously recognised 
+impairments are not recognised in earnings.
+
+For fixed income securities AFS that are other-than-temporary impaired and there is not an intention to sell, the impairment  
+is separated into (i) the estimated amount relating to credit loss, and (ii) the amount relating to all other factors. The estimated 
+credit loss amount is recognised in earnings, with the remainder of the loss amount recognised in other comprehensive income. 
+In cases where there is an intention or requirement to sell, the accounting of the other-than-temporary impairment is the same  
+as for equity securities AFS described above.
+
+Interest on fixed income securities is recorded in net investment income when earned and is adjusted for the amortisation of 
+any purchase premium or discount. Dividends on equity securities are recognised as investment income on the ex-dividend 
+date. Realised gains and losses on sales are included in earnings and are calculated using the specific identification method.
+
+Policy loans, mortgages and other loans are carried at amortised cost. Interest income is recognised in accordance with the 
+effective yield method.
+
+Investment in real estate that the Group intends to hold for the production of income is carried at depreciated cost, net of any 
+write-downs for impairment in value. Depreciation on buildings is recognised on a straight-line basis over the estimated useful 
+life of the asset. Land is recognised at cost and not depreciated. Impairment in value is recognised if the sum of the estimated 
+future undiscounted cash flows from the use of the real estate is lower than its carrying value. Impairment in value, depreciation 
+and other related charges or credits are included in net investment income. Investment in real estate held for sale is carried at the 
+lower of cost or fair value, less estimated selling costs, and is not depreciated. Reductions in the carrying value of real estate held 
+for sale are included in realised investment losses.
+
+Short-term investments are measured at fair value with changes in fair value recognised in net income. The Group considers 
+highly liquid investments with a remaining maturity at the date of acquisition of one year or less, but greater than three months, 
+to be short-term investments.
+
+Swiss Re 2015 Financial Report  163
+
+

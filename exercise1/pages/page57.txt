@@ -1,0 +1,77 @@
+Risk ANd CApiTAl mANAgEmENT
+
+Economic Value Management
+EVm is an integrated economic 
+accounting and steering framework 
+based on market-consistent 
+valuations and defines the method 
+for measuring value creation for  
+all business activities of swiss Re.
+
+Economic Value Management (EVM) 
+is Swiss Re’s integrated economic 
+valuation framework for planning, 
+pricing, reserving and steering the 
+business. Since 2003, Swiss Re has 
+used the EVM framework as a tool  
+to support business and strategic 
+financial decisions, including 
+compensation. EVM also provides the 
+basis for determining available capital 
+under the SST and, in the future, 
+under Solvency II.
+
+The key EVm valuation principles are 
+summarised below.
+
+Market-consistent valuations
+All traded assets and liabilities are marked 
+to market, based on quoted prices in 
+active markets or observable inputs. 
+Assets and liabilities that are not traded 
+are valued consistently with market 
+prices. The group’s insurance liabilities 
+are valued on a market-consistent basis 
+by replicating future expected cash flows 
+with liquid financial market instruments. 
+As the majority of the group’s insurance 
+liabilities do not contain embedded 
+financial market risk exposure other than 
+to interest rates, the market-consistent 
+value can be determined by discounting 
+future cash flows using prevailing risk- 
+free interest rates. if insurance liabilities 
+include embedded options or guarantees 
+(eg, variable annuities or interest-rate-
+sensitive life business), they are valued  
+on a market-consistent basis using 
+stochastic models and other appropriate 
+valuation techniques.
+
+Performance split of underwriting 
+and investment activities
+EVm values insurance underwriting  
+and investment activities separately.
+Underwriting activities create value  
+by raising funds in insurance markets at  
+a lower cost than through other sources. 
+The investment functions are assessed on 
+a risk-adjusted basis. This makes possible 
+a like-for-like comparison of underwriting 
+and investment activities.
+
+Closed-book approach
+EVm recognises all cash flows associated 
+with a new contract at inception, and any 
+changes in estimates as they occur.  
+in comparison, the deferral and matching 
+principle under Us gAAp postpones 
+recognition of revenues until they are 
+earned and matches expenses to those 
+revenues. EVm excludes the recognition 
+of all potential future new business 
+activities, as well as potential renewals.
+
+Swiss Re 2015 Financial Report  55
+
+

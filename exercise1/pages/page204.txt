@@ -1,0 +1,44 @@
+FInanCIaL STaTEMEnTS
+notes to the Group financial statements
+
+The Group’s OTC interest rate derivatives primarily include interest rate swaps, futures, options, caps and floors, and are  
+valued based on the cash flow discounting models which generally utilise as inputs observable market yield curves  
+and volatility assumptions. 
+
+The Group’s OTC foreign exchange derivatives primarily include forward, spot and option contracts and are generally valued 
+based on the cash flow discounting models, utilising as main inputs observable foreign exchange forward curves. 
+
+The Group’s investments in equity derivatives primarily include OTC equity option contracts on single or baskets of market 
+indices and equity options on individual or baskets of equity securities, which are valued using internally developed models 
+(such as the Black-Scholes type option pricing model and various simulation models) calibrated with the inputs, which include 
+underlying spot prices, dividend curves, volatility surfaces, yield curves, and correlations between underlying assets.
+
+The Group’s OTC credit derivatives can include index and single-name credit default swaps, as well as more complex structured 
+credit derivatives. Plain vanilla credit derivatives, such as index and single-name credit default swaps, are valued by the Group 
+based on the models consistent with the industry valuation standards for these credit contracts, and primarily utilise observable 
+inputs published by market data sources, such as credit spreads and recovery rates. These valuation techniques warrant 
+classification of plain vanilla OTC derivatives as level 2 financial instruments in the fair value hierarchy. 
+
+Governance around level 3 fair valuation
+The asset Valuation Committee, endorsed by the Group Executive Committee, has a primary responsibility for governing and 
+overseeing all of the Group’s asset and derivative valuation policies and operating parameters (including level 3 measurements).  
+The asset Valuation Committee delegates the responsibility for implementation and oversight of consistent application of the 
+Groupʼs pricing and valuation policies to the Pricing and Valuation Committee.
+
+The Pricing and Valuation Committee, which is a joint Risk Management & Finance management control committee, is 
+responsible for the implementation and consistent application of the pricing and valuation policies. Key functions of the Pricing 
+and Valuation Committee include: oversight over the entire valuation process, approval of internal valuation methodologies, 
+approval of external pricing vendors, monitoring of the independent price verification (IPV) process and resolution of significant 
+or complex valuation issues.
+
+a formal IPV process is undertaken monthly by members of the Valuation Risk Management team within the Financial Risk 
+Management function. The process includes monitoring and in-depth analyses of approved pricing methodologies and 
+valuations of the Group’s financial instruments aimed at identifying and resolving pricing discrepancies.
+
+The Risk Management function is responsible for independent validation and ongoing review of the Group’s valuation models. 
+The Product Control group within Finance is tasked with reporting of fair values through the vendor- and model-based valuations, 
+the results of which are also subject to the IPV process.
+
+202  Swiss Re 2015 Financial Report
+
+

@@ -1,0 +1,48 @@
+Provisions
+Provisions contain provision for currency fluctuation and provision for taxation.
+
+the provision for currency fluctuation comprises the net effect of foreign exchange gains and losses arising from the yearly 
+revaluation of the opening balance sheet and the translation adjustment of the income statement from average to closing exchange 
+rates at year-end. these net impacts are recognised in the income statement over a period of up to three years. Where the provision 
+for currency fluctuation is insufficient to absorb net foreign exchange losses for the financial year, the provision for currency 
+fluctuation is reduced to zero and the excess foreign exchange loss is recognised in the income statement.
+
+the provision for taxation represents an estimate of taxes payable in respect of the reporting year.
+
+Other legal capital reserves
+Other legal capital reserves reflect gains and losses from sale of own shares (directly held by the company).
+
+Reserve for own shares (indirectly held by subsidiaries)
+Reserve for own shares is accounted for at the book value of those shares in the statutory financial statements of the respective 
+subsidiary.
+
+Own shares (directly held by the Company)
+Own shares are carried at cost and presented as a deduction in shareholders’ equity.
+
+Foreign exchange transaction gains and losses
+foreign exchange gains and losses arising from foreign exchange transactions are recognised in the income statement and 
+reported in other expenses or other revenues, respectively.
+
+Dividends from subsidiaries and affiliated companies
+Dividends from subsidiaries and affiliated companies are recognised as investment income in the year in which they are declared.
+
+Trademark licence fees
+trademark licence fees are charged by the company to its direct and indirect subsidiaries and their branches that benefit from the 
+use of the swiss Re brand.
+
+Capital and indirect taxes
+capital and indirect taxes related to the financial year are included in other expenses. Value-added taxes are included in the 
+respective expense lines in the income statement.
+
+Income tax expense
+as a holding company incorporated in switzerland, swiss Re ltd is exempt from income taxation at cantonal/communal level.  
+On the federal level, dividends from subsidiaries and affiliated companies are indirectly exempt from income taxation (participation 
+relief). However, income tax is payable on trademark licence fees charged to certain subsidiaries and affiliated companies.
+
+Subsequent events
+subsequent events for the current reporting period have been evaluated up to 15 march 2016. this is the date on which the 
+financial statements are available to be issued. 
+
+Swiss Re 2015 financial Report  255
+
+

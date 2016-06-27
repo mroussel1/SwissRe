@@ -1,0 +1,60 @@
+FInanCIaL STaTEMEnTS
+notes to the Group financial statements
+
+8  Fair value disclosures
+
+Fair value, as defined by the Fair Value Measurements and Disclosures Topic, is the price that would be received to sell an asset 
+or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+The Fair Value Measurements and Disclosures Topic requires all assets and liabilities that are measured at fair value to be 
+categorised within the fair value hierarchy. This three-level hierarchy is based on the observability of the inputs used in the  
+fair value measurement. The levels of the fair value hierarchy are defined as follows:
+
+Level 1 inputs are quoted prices in active markets for identical assets or liabilities that the Group has the ability to access.  
+Level 1 inputs are the most persuasive evidence of fair value and are to be used whenever possible. 
+
+Level 2 inputs are market-based inputs that are directly or indirectly observable, but not considered level 1 quoted prices.  
+Level 2 inputs consist of (i) quoted prices for similar assets or liabilities in active markets; (ii) quoted prices for identical assets or 
+liabilities in non-active markets (eg markets which have few transactions and where prices are not current or price quotations 
+vary substantially); (iii) inputs other than quoted prices that are observable (eg interest rates, yield curves, volatilities, prepayment 
+speeds, credit risks and default rates); and (iv) inputs derived from, or corroborated by, observable market data.
+
+Level 3 inputs are unobservable inputs. These inputs reflect the Group’s own assumptions about market pricing using the best 
+internal and external information available.
+
+The types of instruments valued, based on unadjusted quoted market prices in active markets, include most US government and 
+sovereign obligations, active listed equities and most money market securities. Such instruments are generally classified within 
+level 1 of the fair value hierarchy. 
+
+The types of instruments that trade in markets that are not considered to be active, but are valued based on quoted market 
+prices, broker or dealer quotations, or alternative pricing sources with reasonable levels of price transparency, include most 
+government agency securities, investment-grade corporate bonds, certain mortgage- and asset-backed products, less liquid 
+listed equities, and state, municipal and provincial obligations. Such instruments are generally classified within level 2 of the  
+fair value hierarchy.
+
+Exchange-traded derivative instruments typically fall within level 1 or level 2 of the fair value hierarchy depending on whether 
+they are considered to be actively traded or not.
+
+Certain financial instruments are classified within level 3 of the fair value hierarchy, because they trade infrequently and therefore 
+have little or no price transparency. Such instruments include private equity, less liquid corporate debt securities and certain 
+asset-backed securities. Certain over-the-counter (OTC) derivatives trade in less liquid markets with limited pricing information, 
+and the determination of fair value for these derivatives is inherently more difficult. Such instruments are classified within level 3 
+of the fair value hierarchy. Pursuant to the election of the fair value option, the Group classifies certain liabilities for life and health 
+policy benefits in level 3 of the fair value hierarchy. When appropriate, valuations are adjusted for various factors such as liquidity, 
+bid/offer spreads, and credit considerations. Such adjustments are generally based on available market evidence. In the absence 
+of such evidence, management’s best estimate is used.
+
+The fair values of assets are adjusted to incorporate the counterparty risk of non-performance. Similarly, the fair values of 
+liabilities reflect the risk of non-performance of the Group, captured by the Group’s credit spread. These valuation adjustments 
+from assets and liabilities measured at fair value using significant unobservable inputs are recognised in net realised gains and 
+losses. For 2015, these adjustments were not material. Whenever the underlying assets or liabilities are reported in a specific 
+business segment, the valuation adjustment is allocated accordingly. Valuation adjustments not attributable to any business 
+segment are reported in Group items. 
+
+In certain situations, the Group uses inputs to measure the fair value of asset or liability positions that fall into different levels of 
+the fair value hierarchy. In these situations, the Group will determine the appropriate level based on the lowest level input that is 
+significant to the determination of the fair value.
+
+200  Swiss Re 2015 Financial Report
+
+

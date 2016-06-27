@@ -1,0 +1,140 @@
+Non-consolidated VIEs 
+The following table shows the total assets and liabilities in the Group’s balance sheet related to VIEs in which the Group held a 
+variable interest but was not the primary beneficiary as of 31 December:
+
+USD millions
+Fixed income securities available-for-sale
+Policy loans, mortgages and other loans 
+Other invested assets
+Total assets 
+
+Accrued expenses and other liabilities
+Total liabilities
+
+2014
+69
+84
+1 451
+1 604
+
+167
+167
+
+2015
+52
+1
+1 706
+1 759
+
+45
+45
+
+The following table shows the Group’s assets, liabilities and maximum exposure to loss related to VIEs in which the Group held  
+a variable interest but was not the primary beneficiary as of 31 December:
+
+USD millions
+Insurance-linked/credit-linked 
+securitisations
+life and health funding vehicles
+Swaps in trusts
+Debt financing
+Investment vehicles
+Other
+Total
+
+Total assets
+
+Total  
+liabilities 
+
+maximum  
+exposure  
+to loss1
+
+2014
+Difference between 
+exposure 
+and liabilities
+
+Total assets
+
+Total  
+liabilities
+
+maximum  
+exposure  
+to loss1
+
+2015
+Difference between 
+exposure 
+and liabilities
+
+70
+
+35
+378
+845
+276
+1 604
+
+68
+1 683
+–2
+28
+845
+1 076
+–2
+
+82
+
+85
+167
+
+68
+1 683
+–
+28
+845
+991
+–
+
+52
+2
+146
+361
+1 009
+189
+1 759
+
+52
+1 777
+–2
+27
+1 011
+189
+–2
+
+1
+44
+
+45
+
+52
+1 776
+–
+27
+1 011
+189
+–
+
+1  maximum exposure to loss is the loss the Group would absorb from a variable interest in a VIE in the event that all of the assets of the VIE are deemed worthless.
+2  The maximum exposure to loss for swaps in trusts cannot be meaningfully quantified due to their derivative character.
+
+The assets and liabilities for the swaps in trusts represent the positive and negative fair values of the derivatives the Group has 
+entered into with the trusts. liabilities are recognised for certain debt financing VIEs when losses occur. To date, the respective 
+debt financing VIEs have not incurred any losses. 
+
+Swiss Re 2015 Financial Report  243
+
+

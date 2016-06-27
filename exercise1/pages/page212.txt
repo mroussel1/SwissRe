@@ -1,0 +1,113 @@
+FInanCIaL STaTEMEnTS
+notes to the Group financial statements
+
+Assets and liabilities not measured at fair value but for which the fair value is disclosed
+assets and liabilities not measured at fair value but for which the fair value is disclosed as of 31 December, were as follows:
+
+2014 
+USD millions
+Assets
+Policy loans
+Mortgage loans
+Other loans
+Investment real estate
+Total assets
+
+Liabilities
+Debt
+Total liabilities
+
+2015 
+USD millions
+Assets
+Policy loans
+Mortgage loans
+Other loans
+Investment real estate
+Total assets
+
+Liabilities
+Debt
+Total liabilities
+
+Significant other 
+observable inputs 
+(Level 2)
+
+Significant  
+unobservable 
+inputs (Level 3)
+
+252
+1 888
+1 065
+2 482
+5 687
+
+0
+
+Total
+
+252
+1 888
+1 065
+2 482
+5 687
+
+–9 934
+–9 934
+
+–6 291
+–6 291
+
+–16 225
+–16 225
+
+Significant other 
+observable inputs 
+(Level 2)
+
+Significant  
+unobservable 
+inputs (Level 3)
+
+91
+1 946
+1 086
+3 211
+6 334
+
+0
+
+Total
+
+91
+1 946
+1 086
+3 211
+6 334
+
+–8 681
+–8 681
+
+–5 674
+–5 674
+
+–14 355
+–14 355
+
+Policy loans, other loans and certain mortgage loans are classified as level 3 measurements, as they do not have an active 
+exit market. Some of these positions need to be assessed in conjunction with the corresponding insurance business.  
+Considering these circumstances, the Group presents the carrying amount as an approximation for the fair value.
+
+Investments in real estate are fair valued primarily by external appraisers based on proprietary discounted cash flow models  
+that incorporate applicable risk premium adjustments to discount yields and projected market rental income streams based  
+on market-specific data. These fair value measurements are classified in level 3 in the fair value hierarchy. 
+
+Debt positions, which are fair valued based on executable broker quotes or based on the discounted cash flow method using 
+observable inputs, are classified as level 2 measurements. Fair value of the majority of the Group’s level 3 debt positions is 
+judged to approximate carrying value due to the highly tailored nature of the obligation and short-notice termination provisions.
+
+210  Swiss Re 2015 Financial Report
+
+

@@ -1,0 +1,149 @@
+ 
+
+Financial market and credit risk stress tests
+pre-tax impact on economic capital in Usd billions, as of 31 december
+Market scenarios
+100bp increase in credit spreads
+30% fall in equity markets (incl. hedge funds)
+15% fall in real estate markets
+100bp parallel increase in global yield curves
+
+Credit stress test
+Credit default stress
+
+2014
+
+–3.8
+–3.2
+–0.6
+0.4
+
+–2.3
+
+2015
+
+–4.4
+–2.9
+–0.6
+0.1
+
+–2.8
+
+Change in %
+
+18
+–10
+9
+–70
+
+22
+
+  Credit risk 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Change from 2014 99% tail VaR
+
+Description
+
+Developments in 2015
+
+in 2015, swiss Re’s credit risk —  
+which includes default and migration 
+(deterioration in credit rating) risk — 
+increased by 29% to Usd 3.4 billion  
+(see table on page 65) and the credit 
+default stress test increased by 22%  
+(see table above). 
+
+The changes reflect the inclusion of  
+the guardian Financial services portfolio  
+(see page 51) and growth in the 
+underwriting portfolio.  
+
+Credit risk is the risk of incurring  
+a financial loss due to diminished 
+creditworthiness or default of swiss Re’s 
+counterparties or of third parties (credit 
+spread risk falls under financial market 
+risk). Credit risk arises primarily from  
+our investment activities as well as from 
+liabilities underwritten by our Business 
+Units, such as credit, surety and from 
+retrocession. We distinguish between 
+three types of credit exposure: the risk of 
+issuer default from instruments in which 
+swiss Re invests or trades; counterparty 
+exposure in a direct contractual 
+relationship; and risk assumed by  
+swiss Re through reinsurance contracts. 
+
+ 
+
+Management
+
+Credit risk is managed and monitored by 
+our Credit Risk management unit within 
+the central Financial Risk management 
+team. 
+
+responsible for regularly monitoring 
+corporate counterparty credit quality  
+and exposures, and compiling watch  
+lists of cases that merit close attention.
+
+transparency to implement exposure 
+management strategies for individual 
+counterparties, industry sectors,  
+and geographic regions.
+
+An aggregate credit stress limit is set  
+by the group Executive Committee.  
+in addition, we assign aggregate credit 
+limits by Business Unit, corporate 
+counterparty and country. These limits 
+are based on multiple factors, including 
+the prevailing economic environment, the 
+nature of the underlying credit exposures 
+and a detailed internal assessment of the 
+counterparty’s financial strength, industry 
+position and other qualitative factors. 
+Financial Risk management is also 
+
+Financial Risk management monitors and 
+reports credit exposure and limits for the 
+group and its Business Units on a weekly 
+basis. The reporting process is supported 
+by a group-wide credit exposure 
+information system that contains all 
+relevant data, including corporate 
+counterparty details, ratings, credit risk 
+exposures, credit limits, and watch lists. 
+All credit practitioners in the group and 
+Business Units have access to this 
+system, thus providing the necessary 
+
+To take account of country risks other 
+than from credit default, swiss Re’s 
+political and sustainability Risk 
+management unit prepares specific 
+country ratings in addition to the 
+sovereign ratings used by the group  
+and the Business Units. These ratings  
+are considered in the decision-making 
+process, and cover political, economic 
+and security-related country risks. 
+
+Swiss Re 2015 Financial Report  69
+
+

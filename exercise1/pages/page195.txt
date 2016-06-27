@@ -1,0 +1,117 @@
+Investment result – unit-linked and with-profit business
+For unit-linked contracts, the investment risk is borne by the policyholder. For with-profit contracts, the majority of the investment 
+risk is also borne by the policyholder, although there are certain guarantees that limit the down-side risk for the policyholder,  
+and a certain proportion of the returns may be retained by the Group (typically 10%).
+
+Net investment result on unit-linked and with-profit business credited to policyholders was as follows:
+
+USD millions
+Investment income – fixed income securities 
+Investment income – equity securities 
+Investment income – other
+Total investment income – unit-linked and with-profit business
+Realised gains/losses – fixed income securities
+Realised gains/losses – equity securities
+Realised gains/losses – other 
+Total realised gains/losses – unit-linked and with-profit business
+Total net investment result – unit-linked and with-profit business
+
+Unit-linked
+109
+621
+22
+752
+132
+206
+5
+343
+1 095
+
+2014
+With-profit
+92
+32
+13
+137
+168
+–1
+–18
+149
+286
+
+Unit-linked 
+90
+556
+32
+678
+–75
+124
+28
+77
+755
+
+2015
+With-profit
+77
+28
+16
+121
+–58
+–19
+15
+–62
+59
+
+Impairment on fixed income securities related to credit losses
+Other-than-temporary impairments for debt securities are bifurcated between credit and non-credit components, with the credit 
+component recognised through earnings and the non-credit component recognised in other comprehensive income. The credit 
+component of other-than-temporary impairments is defined as the difference between a security’s amortised cost basis and the 
+present value of expected cash flows. Methodologies for measuring the credit component of impairment are aligned to market 
+observer forecasts of credit performance drivers. Management believes that these forecasts are representative of median  
+market expectations.
+
+For securitised products, a cash flow projection analysis is conducted by integrating forward-looking evaluation of collateral 
+performance drivers, including default rates, prepayment rates and loss severities, and deal-level features, such as credit 
+enhancement and prioritisation among tranches for payments of principal and interest. Analytics are differentiated by asset 
+class, product type and security-level differences in historical and expected performance. For corporate bonds and hybrid  
+debt instruments, an expected loss approach based on default probabilities and loss severities expected in the current and  
+forecasted economic environment is used for securities identified as credit-impaired to project probability-weighted cash  
+flows. Expected cash flows resulting from these analyses are discounted, and the present value is compared to the amortised  
+cost basis to determine the credit component of other-than-temporary impairments.
+
+A reconciliation of other-than-temporary impairments related to credit losses recognised in earnings was as follows:
+
+USD millions
+Balance as of 1 January
+
+Credit losses for which an other-than-temporary impairment was not previously recognised  
+Reductions for securities sold during the period 
+Increase of credit losses for which an other-than-temporary impairment has been recognised previously, 
+when the Group does not intend to sell, or more likely than not will not be required to sell before recovery
+Impact of increase in cash flows expected to be collected 
+Impact of foreign exchange movements
+
+Balance as of 31 December
+
+2014
+228
+9
+–78
+
+–23
+1
+137
+
+2015
+137
+30
+–23
+
+7
+–10
+–5
+136
+
+Swiss Re 2015 Financial Report  193
+
+

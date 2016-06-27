@@ -1,0 +1,61 @@
+Amounts assessed against policyholders for mortality, administration and surrender are shown as fee income. Amounts credited 
+to policyholders are shown as interest credited to policyholders. Investment income and realised investment gains and losses 
+allocable to policyholders are included in net investment income and net realised investment gains/losses except for unit-linked 
+and with-profit business, which is presented in a separate line item on the face of the income statement.
+
+Unit-linked and with-profit business are presented together as they are similar in nature. For unit-linked contracts, the investment 
+risk is borne by the policyholder. For with-profit contracts, the majority of the investment risk is also borne by the policyholder, 
+although there are certain guarantees that limit the down-side risk for the policyholder, and a certain proportion of the returns 
+may be retained by Swiss Re Group (typically 10%). Additional disclosures are provided in Note 7.
+
+Funds held assets and liabilities
+On the asset side, funds held by ceding companies’ consist mainly of amounts retained by the ceding company for business 
+written on a funds withheld basis. In addition, the account also includes amounts arising from the application of the deposit 
+method of accounting to ceded retrocession or reinsurance contracts.
+
+On the liability side, funds held under reinsurance treaties’ consist mainly of amounts arising from the application of the deposit 
+method of accounting to inward insurance and reinsurance contracts. In addition, the account also includes amounts retained 
+from ceded business written on a funds withheld basis.
+
+Funds withheld assets are assets that would normally be paid to the Group but are withheld by the cedent to reduce a potential 
+credit risk or to retain control over investments. In case of funds withheld liabilities, it is the Group that withholds assets related 
+to ceded business in order to reduce its credit risk or retain control over the investments.
+
+The deposit method of accounting is applied to insurance and reinsurance contracts that do not indemnify the ceding company 
+or the Group against loss or liability relating to insurance risk. Under the deposit method of accounting, the deposit asset or 
+liability is initially measured based on the consideration paid or received. For contracts that transfer neither significant timing nor 
+underwriting risk, and contracts that transfer only significant timing risk, changes in estimates of the timing or amounts of cash 
+flows are accounted for by recalculating the effective yield. The deposit is then adjusted to the amount that would have existed 
+had the new effective yield been applied since the inception of the contract. The revenue and expense recorded for such contracts 
+is included in net investment income. For contracts that transfer only significant underwriting risk, once a loss is incurred, the 
+deposit is adjusted by the present value of the incurred loss. At each subsequent balance sheet date, the portion of the deposit 
+attributable to the incurred loss is recalculated by discounting the estimated future cash flows. The resulting changes in the 
+carrying amount of the deposit are recognised in claims and claim adjustment expenses.
+
+Funds withheld balances are presented together with assets and liabilities arising from the application of the deposit method 
+because of their common deposit type character.
+
+Shadow adjustments 
+Shadow adjustments are recognised in other comprehensive income reflecting the offset of adjustments to deferred acquisition 
+costs and PVFP, typically related to universal life-type contracts, and policyholder liabilities. The purpose is to reflect the fact that 
+certain amounts recorded as unrealised investment gains and losses within shareholders’ equity will ultimately accrue to 
+policyholders and not shareholders.
+
+Shadow loss recognition testing becomes relevant in low interest rate environments. The test considers whether the hypothetical 
+sale of AFS securities and the reinvestment of proceeds at lower yields would lead to negative operational earnings in future 
+periods, thereby causing a loss recognition event. For shadow loss recognition testing, the Group uses current market yields to 
+determine best estimate GAAP reserves rather than using locked in or current book yields. If the unlocked best estimate GAAP 
+reserves based on current market rates are in excess of reserves based on locked in or current book yields, a shadow loss 
+recognition reserve is set up. These reserves are recognised in other comprehensive income and do not impact net income. 
+In addition, shadow loss recognition reserves can reverse up to the amount of losses recognised due to past loss events.
+
+Premiums
+Property and casualty reinsurance premiums are recorded when written and include an estimate for written premiums receivable 
+at period end. Premiums earned are generally recognised in income over the contract period in proportion to the amount of 
+reinsurance provided. Unearned premiums consist of the unexpired portion of reinsurance provided. Life reinsurance premiums 
+are earned when due. Related policy benefits are recorded in relation to the associated premium or gross profits so that profits 
+are recognised over the expected lives of the contracts. 
+
+Swiss Re 2015 Financial Report  167
+
+

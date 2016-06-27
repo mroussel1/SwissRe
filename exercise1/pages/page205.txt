@@ -1,0 +1,215 @@
+Assets and liabilities measured at fair value on a recurring basis
+as of 31 December, the fair values of assets and liabilities measured on a recurring basis by level of input were as follows:
+
+2014 
+USD millions
+Assets
+Fixed income securities held for proprietary  
+investment purposes
+
+Debt securities issued by US government 
+and government agencies
+US agency securitised products
+Debt securities issued by non-US  
+governments and government agencies
+Corporate debt securities
+Mortgage- and asset-backed securities
+
+Fixed income securities backing unit-linked and  
+with-profit business
+Equity securities held for proprietary  
+investment purposes
+Equity securities backing unit-linked and  
+with-profit business
+Short-term investments held for proprietary  
+investment purposes
+Short-term investments backing unit-linked and  
+with-profit business
+Derivative financial instruments
+
+Interest rate contracts
+Foreign exchange contracts
+Equity contracts
+Credit contracts
+Other contracts
+
+Other invested assets
+Funds held by ceding companies2
+Total assets at fair value
+
+Liabilities
+Derivative financial instruments
+
+Interest rate contracts
+Foreign exchange contracts
+Equity contracts
+Credit contracts
+Other contracts
+
+Liabilities for life and health policy benefits
+accrued expenses and other liabilities
+Total liabilities at fair value
+
+Quoted prices in  
+active markets for  
+identical assets 
+and liabilities  
+(Level 1)
+
+Significant other 
+observable 
+inputs 
+(Level 2)
+
+Significant  
+unobservable 
+inputs 
+(Level 3)
+
+Impact of  
+netting1
+
+12 530
+
+12 530
+
+4 050
+
+20 034
+
+6 407
+
+40
+
+40
+
+907
+
+43 968
+
+–13
+–5
+
+–8
+
+–1 035
+–1 048
+
+73 738
+
+1 797
+3 252
+
+30 692
+31 903
+6 094
+
+3 680
+
+11
+
+7 720
+
+20
+3 810
+2 621
+272
+892
+1
+24
+562
+273
+89 814
+
+–3 107
+–2 113
+–407
+–564
+–1
+–22
+
+–864
+–3 971
+
+401
+
+388
+13
+
+39
+
+521
+
+–3 530
+
+396
+
+125
+1 812
+
+2 773
+
+–3 530
+
+–757
+
+2 969
+
+–130
+–11
+–616
+–187
+
+–944
+
+2 969
+
+Total
+
+86 669
+
+14 327
+3 252
+
+30 692
+32 291
+6 107
+
+3 680
+
+4 089
+
+20 045
+
+14 127
+
+20
+841
+2 621
+272
+1 328
+1
+149
+3 281
+273
+133 025
+
+–908
+–2 118
+–407
+–702
+–12
+–638
+–187
+–1 899
+–2 994
+
+1  The netting of derivative receivables and derivative payables is permitted when a legally enforceable master netting agreement exists between two counterparties. a master net-
+ting agreement provides for the net settlement of all contracts, as well as cash collateral, through a single payment, in a single currency, in the event of default or on the termination 
+of any one contract.
+2  The Group revised the scope of the fair value option disclosure to include certain assets held under three of its reinsurance agreements. These assets have been managed on a fair 
+value basis since inception.
+
+Swiss Re 2015 Financial Report  203
+
+

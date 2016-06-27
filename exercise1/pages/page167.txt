@@ -1,0 +1,57 @@
+Modifications of insurance and reinsurance contracts
+The Group accounts for modifications of insurance and reinsurance contracts that result in a substantially unchanged contract as 
+a continuation of the replaced contract. The associated deferred acquisition costs and present value of future profits (PVFP) will 
+continue to be amortised. The Group accounts for modifications of insurance and reinsurance contracts that result in a substantially 
+changed contract as an extinguishment of the replaced contract. The associated deferred acquisition costs or PVFP are written 
+off immediately through income and any new deferrable costs associated with the replacement contract are deferred.
+
+Business combinations
+The Group applies the acquisition method of accounting for business combinations. This method allocates the cost of the acquired 
+entity to the assets and liabilities assumed based on their estimated fair values at the date of acquisition.
+
+Admin Re® blocks of business can be acquired in different legal forms, either through an acquisition of an entity’s share capital 
+or through a reinsurance transaction. The Group’s policy is to treat these transactions consistently regardless of the legal form of 
+the acquisition. Accordingly, the Group records the acquired assets and liabilities directly to the balance sheet. Premiums, life and 
+health benefits and other income statement items are not recorded in the income statement on the date of the acquisition.
+
+The underlying assets and liabilities acquired are subsequently accounted for according to the relevant GAAP guidance.  
+This includes specific requirements applicable to subsequent accounting for assets and liabilities recognised as part of the 
+acquisition method of accounting, including present value of future profits, goodwill and other intangible assets.
+
+Acquired present value of future profits
+The acquired present value of future profits (PVFP) of business in force is recorded in connection with the acquisition of life  
+and/or health business. The initial value is determined actuarially by discounting estimated future gross profits as a measure of 
+the value of business acquired. The resulting asset is amortised on a constant yield basis over the expected revenue recognition 
+period of the business acquired, generally over periods ranging up to 30 years, with the accrual of interest added to the 
+unamortised balance at the earned rate. The earned rate corresponds to either the current earned rate or the original earned rate 
+depending on the business written. The rate is consistently applied for the entire life of the applicable business. For universal-life 
+and similar products, PVFP is amortised in line with estimated gross profits, and estimated gross profits are updated quarterly. 
+The carrying value of PVFP is reviewed periodically for indicators of impairment in value. Adjustments to reflect impairment in 
+value are recognised in earnings during the period in which the determination of impairment is made or in other comprehensive 
+income for shadow loss recognition.
+
+Goodwill
+The excess of the purchase price of acquired businesses over the estimated fair value of net assets acquired is recorded as 
+goodwill, which is reviewed periodically for indicators of impairment in value. Adjustments to reflect impairment in value are 
+recognised in earnings in the period in which the determination of impairment is made.
+
+Other assets 
+Other assets include deferred expenses on retroactive reinsurance, prepaid reinsurance premiums, receivables related to investing 
+activities, real estate for own use, other classes of property, plant and equipment, accrued income, certain intangible assets and 
+prepaid assets. 
+
+The excess of estimated liabilities for claims and claim adjustment expenses payable over consideration received in respect of 
+retroactive property and casualty reinsurance contracts is recorded as a deferred expense. The deferred expense on retroactive 
+reinsurance contracts is amortised through earnings over the expected claims-paying period.
+
+Real estate for own use as well as other classes of property, plant and equipment are carried at depreciated cost. Depreciation 
+on buildings is recognised on a straight-line basis over the estimated useful life. Land is recognised at cost and not depreciated.
+
+Capitalised software costs
+External direct costs of materials and services incurred to develop or obtain software for internal use, payroll and payroll-related 
+costs for employees directly associated with software development and interest cost incurred while developing software for 
+internal use are capitalised and amortised on a straight-line basis through earnings over the estimated useful life.
+
+Swiss Re 2015 Financial Report  165
+
+

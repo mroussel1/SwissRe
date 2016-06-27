@@ -1,0 +1,88 @@
+GeneRal infORmatiOn
+Glossary
+
+Running yield
+
+Securitisation
+
+Solvency II
+
+Stop-loss reinsurance
+
+Surety insurance
+
+Surplus reinsurance
+
+Swiss Solvency Test (SST)
+
+net investment income on long-term fixed income positions, including coupon income 
+and amortisation, as a percentage of the average market value of the long-term fixed 
+income portfolio. 
+
+financial transaction in which future cash flows from financial assets (or insurable 
+risks) are pooled, converted into tradable securities and transferred to capital market 
+investors. the financial assets are commonly sold to a special-purpose entity,  
+which purchases them with cash raised through the issuance of beneficial interests 
+(usually debt instruments) to third-party investors.
+
+new regulatory framework for eU re/insurance solvency rules that introduces 
+comprehensive, economic and risk-based regulation and includes prudential 
+requirements on solvency capital, risk modelling, supervisory control and disclosure.
+
+form of reinsurance that protects the ceding insurer against an aggregate amount 
+of claims over a period, in excess of either a stated amount or a specified percentage  
+of estimated benefit costs. an example of this is employer stop-loss (eSl) coverage, 
+which is used by US companies to cap losses on self-funded group health benefit 
+programmes. the stop-loss can apply to specific conditions or aggregate losses.
+
+Sureties and guarantees issued to third parties for the fulfilment of  
+contractual liabilities.
+
+form of proportional reinsurance in which risks are reinsured above  
+a specified amount.
+
+an economic and risk-based insurance regulation, similar to the objectives of 
+Solvency ii to which all insurance and reinsurance companies writing business  
+in Switzerland are subject. Since 1 January 2011, the SSt-based target capital 
+requirement is in force and companies must achieve economic solvency.
+
+Tail VaR
+
+See “Value at risk”.
+
+Top-down investment  
+strategy approach
+
+Total return on investments
+
+Treaty reinsurance
+
+Underwriting result
+
+Unearned premium
+
+an investment strategy process which analyses trends in the global economy and the 
+associated impact on financial markets to assess the overall financial market outlook  
+as well as their implications for various asset classes and risk exposures.
+
+investment related operating income plus the change in unrealised gains/losses on 
+available-for-sale securities as well as the fair value of real estate and certain loans as  
+a percentage of invested assets. invested assets include investments, securities in 
+transit, certain financial liabilities and exclude policy loans, minority interests, cash  
+and cash equivalents, as well as assets related to securities lending, repurchase 
+agreements and collateral balances.
+
+Participation of the reinsurer in certain sections of the insurer’s business as agreed  
+by treaty, as opposed to single risks.
+
+Premiums earned less the sum of claims paid, change in the provision for unpaid 
+claims and claim adjustment expenses and expenses (acquisition costs and other 
+operating costs and expenses).
+
+Part of written premium (paid or owed) which relates to future coverage and for which 
+services have not yet been provided; this is carried in an unearned premium reserve 
+and may be refundable if the contract is cancelled before expiry.
+
+270  Swiss Re 2015 financial Report
+
+

@@ -1,0 +1,158 @@
+ 
+
+Insurance risk stress tests: Single event losses with a 200-year return period1 
+pre-tax impact on economic capital in Usd billions, as of 31 december
+Natural catastrophes
+Atlantic hurricane 
+Californian earthquake 
+European windstorm 
+Japanese earthquake 
+
+Life insurance
+lethal pandemic
+
+2014
+
+–4.3
+–4.0
+–3.1
+–3.1
+
+–2.4
+
+2015
+
+−5.6
+−3.8
+−2.6
+−3.2
+
+−2.4
+
+Change in %
+
+31
+−4
+−17
+2
+
+0
+
+1  single event losses with a 200-year return period show for example that there is a 0.5% probability over the next year that the loss from a single Atlantic hurricane event could 
+exceed Usd 5.6 billion. The impact excludes earned premiums for the business written and reinstatement premiums that could be triggered as a result of the event.
+
+  Life and health risk 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Change from 2014 99% tail VaR
+
+Description
+
+Developments in 2015
+
+swiss Re’s life and health (l&H) insurance  
+risk arises from the business we take  
+on when providing mortality (death), 
+longevity (annuity), and morbidity (illness 
+and disability) coverage through both the 
+Reinsurance Business Unit, and when 
+acquiring run-off business through  
+the Admin Re® (life Capital since 
+1 January 2016) Business Unit.  
+in addition to potential shock events, such 
+as a severe pandemic, we monitor and 
+manage underlying risks inherent in life 
+and health contracts (eg, pricing and 
+reserving risks) that arise when mortality, 
+morbidity, or lapse experience deviates 
+from expectations. The investment risk 
+that is part of some life and health 
+business is monitored and managed as 
+financial market risk. 
+
+swiss Re’s overall life and health risk 
+decreased by 10% to Usd 7.2 billion.  
+The decrease was to a large extent driven 
+by foreign exchange movements, as the 
+depreciation of several currencies (in 
+particular the Canadian dollar and 
+Australian dollar) against the Us dollar 
+had a significant impact on the present 
+value of our liabilities.
+
+The decline in the overall l&H shortfall 
+was further amplified by a large exposure 
+decrease in mortality trend risk (death) 
+mainly due to lower mortality 
+assumptions and model improvements 
+for several markets. This was partly offset 
+by higher morbidity (illness and disability) 
+and lethal pandemic risk, where we 
+
+Management
+
+To control risk exposure, we have an 
+aggregate group limit governing the 
+acceptance of all life and health risks, 
+with separate individual limits  
+for mortality, longevity and lethal  
+pandemic risk. 
+
+At the Business Unit level, acceptance  
+of life and health risks is governed by 
+aggregated Business Unit limits. local 
+teams can write reinsurance within their 
+allocated capacity and clearly defined 
+boundaries. 
+
+market exposure limits, which are 
+regularly monitored, are in place for 
+catastrophe and stop-loss business.  
+We pay particular attention to 
+accumulation risk in densely populated 
+areas and apply limits for individual 
+buildings. 
+
+As in property and casualty, all large, 
+complex or unusual transactions  
+are reviewed and require individual  
+approval from swiss Re’s underwriting,  
+client management and risk  
+management functions. 
+
+experienced more business. The inclusion 
+of the guardian Financial services 
+portfolio (see page 51) substantially 
+increased our longevity exposure thus 
+leading to a further decline in overall l&H 
+shortfall, as longevity risk provides a 
+natural hedge to some of the mortality 
+trend risk (due to diversification).  
+
+The 200-year pandemic event shown in 
+the table above remained stable at 
+Usd 2.4 billion. 
+
+.
+
+We further manage the risk exposure  
+of swiss Re’s life and health book  
+by external retrocession and also  
+issue insurance-linked securities  
+to reduce peak exposures (eg, vita  
+bond programme).
+
+ 
+
+Swiss Re 2015 Financial Report  67
+
+

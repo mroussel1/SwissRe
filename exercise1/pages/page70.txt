@@ -1,0 +1,146 @@
+Risk ANd CApiTAl mANAgEmENT
+Risk assessment
+
+Financial market and Credit Risk
+
+Financial market and credit risk 
+management involves identifying, 
+assessing and controlling risks 
+inherent in the financial markets as 
+well as counterparty risks, while 
+monitoring compliance with our risk 
+management standards. Both risk 
+categories are managed centrally by 
+our Financial Risk Management team. 
+
+Our central Financial Risk management 
+team oversees activities generating 
+financial market and/or credit risk, 
+proposes limits, provides quantitative risk 
+assessment across financial risk factors, 
+and monitors portfolio risk. it also 
+develops considerations for risk 
+mitigation or risk reduction, reviews risk 
+and valuation models, assesses asset 
+valuations, and approves transactions 
+and new products. These responsibilities 
+
+are exercised through defined 
+governance procedures, including  
+regular reviews by our senior Risk 
+Council. Financial Risk management  
+is responsible for both internally and 
+externally managed assets, principal 
+investments and all liability-based 
+business generating financial market 
+and/or credit risk, including credit  
+and surety. 
+
+  Financial market risk  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Change from 2014 99% tail VaR
+
+Description
+
+Developments in 2015
+
+Financial market risk is the risk that  
+assets or liabilities may be impacted by 
+movements in financial market prices  
+or rates − such as equity prices, interest 
+rates, credit spreads, foreign exchange 
+rates or real estate prices. Financial 
+market risk originates from two main 
+sources: our own investment activities 
+and the sensitivity of the economic  
+value of liabilities to financial market 
+fluctuations. swiss Re actively manages 
+the potential mismatch in financial market 
+risk between its liabilities and the assets 
+that it holds.
+
+The overall financial market risk increased 
+by 4% to Usd 12.6 billion (see table  
+on page 65). The increase reflects the 
+inclusion of guardian Financial services 
+(guardian) as well as changes to 
+swiss Re’s asset allocation increasing  
+in particular our credit spread risk.  
+This increase is partly offset by a 
+decrease in equity and interest rate risk. 
+
+The table on page 69 shows swiss Re’s 
+sensitivity to various market scenarios. 
+The potential loss from credit spread 
+widening increased in 2015, reflecting 
+
+the inclusion of the guardian portfolio 
+(see page 51). Without the guardian 
+transaction, the sensitivity of the portfolio 
+to changes in credit spread would have 
+decreased. The decrease in equity stress 
+is driven by the impact of negative market 
+movements on our equity portfolio  
+as well as by the sale of hedge fund 
+positions. The increase in real estate risk 
+reflects additional investments mainly  
+in Us real estates. The decrease in the 
+interest rate scenario resulted from the 
+reduction of swiss Re’s net short duration 
+position to an almost balanced portfolio.
+
+Management
+
+Financial market risk is subject to limits  
+at various levels of the organisation  
+(eg, group, Business Units, lines of 
+business and legal entities). individual 
+limits are expressed in terms of stress, 
+VaR and risk factor sensitivities. Asset 
+management determines a more detailed 
+set of risk limits for its portfolio mandates.
+
+Financial Risk management regularly 
+reviews and updates the risk framework 
+and is also responsible for monitoring 
+financial market risk in accordance with
+
+ 
+
+our risk management standards. The unit 
+provides daily and weekly group-level 
+reports on risks and on specific limits  
+for internally and externally managed 
+investment mandates as well as for  
+the Business Units. These reports track 
+exposures, document limit usage  
+(which is independently monitored by 
+Financial Risk management) and provide 
+information on key risks that could affect 
+the portfolio. specific limits are assigned 
+to the line of business heads, who seek  
+to optimise their portfolios within those
+
+limits. The reports are normally presented 
+and discussed with the relevant business 
+line responsibles at weekly meetings.
+
+This process is complemented by regular 
+risk discussions between Financial Risk 
+management, Asset management, 
+Business Units and the group’s external 
+investment managers.
+
+68  Swiss Re 2015 Financial Report
+
+

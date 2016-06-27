@@ -1,0 +1,162 @@
+statement of cash flow
+
+For the years ended 31 December
+
+UsD millions
+Cash flows from operating activities
+net income attributable to common shareholders
+add net income attributable to non-controlling interests
+adjustments to reconcile net income to net cash provided/used by operating activities:
+
+Depreciation, amortisation and other non-cash items
+net realised investment gains/losses
+income from equity-accounted investees, net of dividends received
+change in:
+
+technical provisions and other reinsurance assets and liabilities, net2
+Funds held by ceding companies and under reinsurance treaties
+Reinsurance recoverable on unpaid claims and policy benefits
+Other assets and liabilities, net2
+income taxes payable/recoverable
+trading positions, net1.2
+
+Net cash provided/used by operating activities
+
+Cash flows from investing activities
+Fixed income securities:
+
+sales
+maturities
+Purchases
+net purchases/sales/maturities of short-term investments2
+
+equity securities:
+
+sales
+Purchases
+
+securities purchased/sold under agreement to resell/repurchase, net1
+cash paid/received for acquisitions/disposal and reinsurance transactions, net
+net purchases/sales/maturities of other investments1.2
+net purchases/sales/maturities of investments held for unit-linked and with-profit business2
+Net cash provided/used by investing activities
+
+Cash flows from financing activities
+Policyholder account balances, unit-linked and with-profit business:2
+
+Deposits
+Withdrawals
+
+issuance/repayment of long-term debt
+issuance/repayment of short-term debt
+Purchase/sale of treasury shares
+Dividends paid to shareholders
+Net cash provided/used by financing activities
+
+Total net cash provided/used
+effect of foreign currency translation
+Change in cash and cash equivalents 
+cash and cash equivalents as of 1 January
+Cash and cash equivalents as of 31 December
+
+2014
+
+3 500
+
+458
+–1 059
+–66
+
+–34
+433
+1 273
+–323
+134
+81
+4 397
+
+55 297
+4 315
+–67 447
+5 921
+
+6 894
+–2 918
+331
+–257
+–1 642
+791
+1 285
+
+250
+–1 695
+1 438
+–2 584
+–197
+–3 129
+–5 917
+
+–235
+–366
+–601
+8 072
+7 471
+
+2015
+
+4 597
+3
+
+594
+–1 221
+202
+
+–121
+764
+670
+87
+–567
+404
+5 412
+
+45 552
+4 529
+–55 360
+6 103
+
+1 790
+–2 717
+–2 089
+404
+2 264
+1 218
+1 694
+
+518
+–2 383
+199
+–1 155
+–579
+–2 608
+–6 008
+
+1 098
+–365
+733
+7 471
+8 204
+
+1  the Group reviewed the nature of certain items within the statement of cash flow. “securities purchased/sold under agreement to resell/repurchase, net” were reclassified from 
+the operating cash flow to the investing cash flow, and certain investment related cash flows were reclassified from “trading positions, net” in the operating cash flow to “net 
+purchases/sales/maturities of other investments” in the investing cash flow. comparatives are adjusted accordingly.
+2  the Group changed the presentation of its investments related to unit-linked and with-profit business, and related deposits and withdrawals were reclassified from “technical  
+provisions, net” in the operating cash flow to “Policyholder account balances, unit-linked and with-profit business” in the financing cash flow. comparatives are adjusted  
+accordingly.
+
+interest paid was UsD 885 million and UsD 672 million for the years ended 31 December 2014 and 2015, respectively.
+tax paid was UsD 509 million and UsD 1 190 million for the years ended 31 December 2014 and 2015, respectively.
+the accompanying notes are an integral part of the Group financial statements.
+
+Swiss Re 2015 Financial Report  161
+
+
